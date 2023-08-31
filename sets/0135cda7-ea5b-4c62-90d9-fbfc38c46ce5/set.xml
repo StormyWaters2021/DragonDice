@@ -1,0 +1,1389 @@
+<set
+    name="Dragonkin"
+    id="0135cda7-ea5b-4c62-90d9-fbfc38c46ce5"
+    gameId="0000ac4a-0bf6-4c10-8f05-e32e53e57518"
+    version="1.0.0.0"
+    gameVersion="1.0.0.0">
+<cards>
+<card id="015a6c98-4f2a-409f-a10e-8214e3ee5a22" name="Dragonmount " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="03742e7a-8f72-4d04-bedb-7f217235557d" name="Dragonsteed " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="03e98dfb-cea9-4db0-8a69-a85e4ace8e0c" name="Dragonstallion" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt5" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="0e986a14-6d9f-458b-9882-efc0b7119638" name="Dragontroop " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="0f7b3604-1f41-4a85-8ad1-b9ce5bfafda2" name="Dragonhero " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonhero " size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonhero " size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="1bda2b3d-2025-405b-8070-ee4a0352798a" name="Dragonchamp " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonchamp " size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonchamp " size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="1e7fa76c-af18-491a-94f3-afd2ca80f179" name="Dragonvictor" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="265d4c13-5a70-4e38-bb89-9a9e61780f3a" name="Dragonscout" size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="2c97384f-586e-4736-82cb-f83367e119ca" name="Dragonsentry " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="33aeb01d-cbcc-4993-89f1-11e5c6a359a8" name="Dragonspy " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="36a51f91-8e8c-412f-bd82-28010bf9bcbc" name="Dragonvedette" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="36ec45ce-0598-48a9-99f7-79f000a165c2" name="Dragonfoal " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+</card>
+<card id="3996ca7b-7291-4e2f-9e71-d549974c2c14" name="Dragonmount " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="48f79f49-d0f0-454d-be3a-5474d9ce1900" name="Dragonsteed " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="4ef697e9-72ef-415e-ad56-fb4b8eb0f46d" name="Dragonstallion" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt5" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="557ceb34-3c3e-4846-a6a1-598806168e87" name="Dragontroop " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="58099842-230b-4a87-9320-5f18e2e4e827" name="Dragonhero " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonhero " size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonhero " size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="5aeff5bb-69ea-4f39-91c1-998c8fa3b252" name="Dragonchamp " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonchamp " size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonchamp " size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="5d91bcad-bf53-48da-ba40-d25e28bd5106" name="Dragonvictor" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="61435801-1573-4315-b75a-b6fa6d440603" name="Dragonscout" size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="62154e17-fcd7-42fa-a73b-3701220b05b3" name="Dragonsentry " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="6340c429-3b03-4565-95ae-5ba69af3bbfe" name="Dragonspy " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="63d47733-3df4-4d37-bb71-f7926e02f546" name="Dragonvedette" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="651126d4-f340-4d5c-be5c-445bb124230f" name="Dragonfoal " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+</card>
+<card id="6f5abd8f-b096-46e2-8c01-7bc7d9d63bcf" name="Dragonmount " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="711e8b2f-5c74-45b8-9245-b1e8fa47d030" name="Dragonsteed " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="72289886-32ec-4b0a-b3c8-6fe1b3f6272f" name="Dragonstallion" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt5" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="72d9c054-aef5-4955-b647-32b0afdf3dbf" name="Dragontroop " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="7379251f-729b-470a-8d99-0d4ca03c97d2" name="Dragonhero " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonhero " size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonhero " size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="73d83bfe-90c3-4327-b366-b3dbba2e2105" name="Dragonchamp " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonchamp " size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonchamp " size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="76c42b0d-5ac8-4370-a911-bab3387cceba" name="Dragonvictor" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="847d978e-0158-4109-97f3-5a553a981e17" name="Dragonscout" size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="860cf84f-b95c-443f-879a-602b9a916ebb" name="Dragonsentry " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="895d36e9-5b36-40b9-a9ea-43ebe0dd5f96" name="Dragonspy " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="8c95d63f-8cf3-4fda-9edb-70e9a1a7eebb" name="Dragonfoal " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+</card>
+<card id="91d79ead-d22f-4c27-901c-9b1b626524f9" name="Dragonvedette" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="93f280dc-269f-413d-b1b6-bcf640509b99" name="Dragonfoal " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+</card>
+<card id="97d85d24-c677-4bc8-939c-7d92ff222bb6" name="Dragonmount " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="9a81998d-5013-44ad-87af-3909c93e4dc4" name="Dragonsteed " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="9e145a0d-7d91-45e7-93c4-ba972e66bf38" name="Dragonstallion" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt5" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="9fce5b2e-bbc9-4d0f-b473-ed9834218c12" name="Dragontroop " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="a18a153f-4fce-4eb6-acae-88ea30fdd58d" name="Dragonhero " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonhero " size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonhero " size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="a1ca0d22-a8c4-43fc-b006-3c0548641cc0" name="Dragonchamp " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonchamp " size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonchamp " size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="a4e9d0b2-307f-451e-9c66-46e8151c32c7" name="Dragonvictor" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="a58feddf-21df-4bf3-b2d8-47d9310a96df" name="Dragonscout" size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="a864a2e9-8cc2-4e78-aa5c-9c43e0b949f4" name="Dragonsentry " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="ae218d24-21a4-4376-bfa3-42ce006f843a" name="Dragonspy " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="b30d7efe-cc85-44ed-a66f-e5184304896e" name="Dragonvedette" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="b7290694-4ae0-4460-bdee-d186072d74b9" name="Dragonfoal " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonfoal " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+</card>
+<card id="ba9f6122-b706-4e54-a47a-38317b55001f" name="Dragonmount " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Dragonmount " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="c031f9ab-df70-49c1-a0c7-a75b4f09fa25" name="Dragonsteed " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsteed " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="c33e1880-0f27-4c6c-aedc-7ec36c46a939" name="Dragonstallion" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt5" name="Dragonstallion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="ccc9443b-8808-42e1-a0b2-7317ab4f6fd8" name="Dragontroop " size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragontroop " size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="d0d757a4-00e5-4374-b267-6d82fa49e78f" name="Dragonhero " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonhero " size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonhero " size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonhero " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="d9efbd11-742c-4fbb-a527-b48600943bc4" name="Dragonchamp " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonchamp " size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonchamp " size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonchamp " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="dd36fd07-2f8c-4157-a0f2-baa7f3e19430" name="Dragonvictor" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvictor" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="e113aa49-6213-4ca7-9f07-01c704225b4d" name="Dragonscout" size="Small">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonscout" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="e25a2767-1ace-496d-8e6f-58a6bf8e2528" name="Dragonsentry " size="Medium">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Dragonsentry " size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="ec88c92c-ceb8-476a-b71c-34d61fef4171" name="Dragonspy " size="Large">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Breath"/>
+</alternate>
+<alternate type="Alt5" name="Dragonspy " size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="fe554564-bf1e-4fae-a3a0-46d79d2b11cd" name="Dragonvedette" size="Champion">
+<property name="Species" value="Dragonkin"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Dragonvedette" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+</cards>
+</set>

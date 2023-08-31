@@ -1,0 +1,4793 @@
+<set
+    name="Eldarim"
+    id="ffc3177a-5fb7-4818-be8e-7dae24c777f5"
+    gameId="0000ac4a-0bf6-4c10-8f05-e32e53e57518"
+    version="1.0.0.0"
+    gameVersion="1.0.0.0">
+<cards>
+<card id="0213fab4-7267-4c26-8ac2-6306aa7e28ec" name="Morehl Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="02f573a9-3351-40d8-a8b7-47f03212e39b" name="Morehl Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="03fd8d5d-c983-4806-b344-4b33b5b82f48" name="Morehl Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="04ecc8e9-8789-422a-b9dd-6f53e10591e3" name="Morehl Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="0509cf8d-fd74-4543-adec-dd2e8190c798" name="Morehl Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="054bd3b5-9dd6-44de-8a6f-4ffa8a855795" name="Selumari Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="059299c1-d1a0-4e74-be81-fae6aaf99303" name="Selumari Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="05c2a566-e490-44b6-b6e7-bbd8826e1c5f" name="Selumari Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="0672cce0-59b9-4269-ab6a-38b4d23af69d" name="Selumari Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="068f66bc-51cf-4629-812b-0508b912bece" name="Selumari Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="069883de-4dab-4719-9525-a1d8572ce2d4" name="Trog Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="06f94a1d-0f7e-44a4-87c8-66d606300b4d" name="Trog Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="0845d0e1-2cdb-4535-9e59-cb446322fb2f" name="Trog Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="08626cb3-d984-4463-a31c-d1682d813ed1" name="Trog Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="09019762-0293-4412-b56b-db996a9c1cc3" name="Trog Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Trog Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="09809f80-768f-4f23-9bac-ab9d8ee06206" name="Vagha Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="09d8ff8b-ecc2-4a53-96d0-145de1589898" name="Vagha Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="0a10c9b0-7e33-4e36-948f-a2285bcf7b04" name="Vagha Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="0a755c68-fd67-42ef-80ab-8fa760f67f5d" name="Vagha Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="0aa61ab4-bb61-4327-8cbe-aa01e9749eea" name="Vagha Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="0ab19e57-85a0-43e2-b3f5-8a128951a40f" name="Morehl Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="0b99c550-77fc-47c6-ac70-80c5117f180d" name="Morehl Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="0bd96813-7c7c-42ea-b466-97e0d274a446" name="Morehl Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="0ca82919-0e05-4111-b7b3-7de02b791084" name="Morehl Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="0d708247-6edb-4c23-aa62-e2d32f619a29" name="Morehl Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="0df23c73-9c9d-4acd-a180-869bd7ceee6e" name="Selumari Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="0eb76641-786e-4283-b11c-a2a8682f924b" name="Selumari Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="0f7f0a99-8557-4445-97a8-68786a386983" name="Selumari Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="1025804b-e6d5-4f63-bb0c-8ca3bbf50711" name="Selumari Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="106d4f0c-ea6e-484d-99be-a043de08b78f" name="Selumari Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="118b5ea2-2276-4216-a05e-24120f142a17" name="Trog Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="11d7548c-9f0f-4225-bc3d-8f81d9c40bd5" name="Trog Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="13727c09-ecce-4139-8a50-66d8c35f0fc0" name="Trog Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="1437de7d-956b-4448-9ce7-d923657a5610" name="Trog Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="15dd7f75-41d9-467d-b31a-124b4850a12c" name="Trog Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Trog Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="1614f980-1182-48e8-881d-f8535a865925" name="Vagha Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="164c2e96-80a0-469d-88de-b78ceb2bbe73" name="Vagha Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="16dbe862-874d-4e77-b02d-1d1df9ba9c7e" name="Vagha Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="17dab6e3-5606-4e48-aba2-c58231b69e5b" name="Vagha Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="1837ad64-33ed-4e93-b7a9-f23babc6741c" name="Vagha Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="19a4a4d1-d2a5-44d7-8f2e-ee80864ba42d" name="Morehl Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="19f83288-ae77-4e6f-ad18-59a3cef87790" name="Morehl Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="1a039e60-4d5b-4f10-aea5-25c5d699097f" name="Morehl Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="1a4e39aa-deba-4a3e-ba78-93e74ee71f6b" name="Morehl Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="1a88d36e-b2f3-4fd5-95b9-853185c22e92" name="Morehl Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="1aaf75c4-2584-4553-bd27-ea4756bbb253" name="Selumari Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="1ade32df-64be-42b5-bd31-597952416116" name="Selumari Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="1c902cdb-4e84-4521-bab8-b8106d509495" name="Selumari Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="1ea19811-6d74-448b-a26f-57ba3df4c64b" name="Selumari Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="1ed274e4-e06e-43e9-8c34-33678bfac2c9" name="Selumari Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="1ef06010-e0c4-4ea6-b199-f90f41d97125" name="Trog Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="1f54d13d-ea45-4a0c-b841-5c0796074d8e" name="Trog Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="1f63f69b-815c-4161-96c1-4a3aa4f00187" name="Trog Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="1f92ba70-2b1e-4611-a509-57b46fa7c519" name="Trog Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="1f9f4d5b-0fe8-4d9b-a31e-f3e2d445500c" name="Trog Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Trog Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="1fd758f1-2f6f-4b6a-a7b4-ce3ffbfc3efc" name="Vagha Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="1fe0873e-d537-49a2-b8f0-e7920f728237" name="Vagha Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="21eddc93-a9cf-44c1-a64d-9bfe4028662f" name="Vagha Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="22358a98-2665-4a0e-a77a-57c41cb61991" name="Vagha Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="231f2615-c824-43c0-a12e-938cf25a92eb" name="Vagha Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="24ac2b1b-a664-4ffe-ad30-a0c0d291486e" name="Morehl Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="250cc694-5446-4703-bacb-5d00503f6f0c" name="Morehl Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="26f66a67-4cdf-4d26-84d4-60eb22ae69b7" name="Morehl Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="275ca355-acd5-4719-9ce8-5d0f704986be" name="Morehl Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="282ae39b-a06d-407a-a651-d3c44d5f2f5c" name="Morehl Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="28609778-9c70-4440-87ac-6a0cce942238" name="Selumari Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="28e2b53d-6c7d-429b-928c-3a25603ff558" name="Selumari Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="293b035d-cacc-4358-8f13-19745912f1bb" name="Selumari Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="2963487a-4abf-46cb-bed8-ab7f242c8571" name="Selumari Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="2d014609-bd2d-4442-a766-6b11af3d948d" name="Selumari Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="2d17ede1-9c4c-4706-80eb-961be2d38043" name="Trog Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="2d3049b1-e547-4664-a2e2-f32d0d314675" name="Trog Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="2d3c0114-cd5d-449e-b2c8-2e8ed7ef085a" name="Trog Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="2d83f60a-f398-4020-b676-b10fb1e9743d" name="Trog Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="2dec67a8-488a-4af7-bf03-e867d866a500" name="Trog Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Trog Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="2df21772-e521-4198-a95f-e129f2e28c0b" name="Vagha Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="2e13ce93-1330-45fc-bfdd-8663acf0fcb8" name="Vagha Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="2f0493b8-63f3-4491-97cb-4e42c88c8e42" name="Vagha Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="3004b6e2-d501-4981-be93-18dcc5e4b116" name="Vagha Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="309cb611-f8ae-4ea2-a411-696688c2d6e1" name="Vagha Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="30f7102a-751e-4ed8-91e6-b380784e4729" name="Morehl Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="312d01dc-7f17-4a0d-ab30-03f131b36719" name="Morehl Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="328e64b6-850a-45ab-ad0a-ac2b50c92c45" name="Morehl Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="32d295f0-ad83-4164-87e6-1e4a6021e826" name="Morehl Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="3308b2e6-00f5-478d-ab6f-f7be05961e6c" name="Morehl Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="33a14cd4-c261-43f3-b080-220fd0db4bfc" name="Selumari Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="3451cf40-edb5-4346-adab-5bb2e0b499e9" name="Selumari Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="34cdae70-3ec3-431d-a57d-496a2afcf0b7" name="Selumari Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="352885b3-1818-4177-b1cd-a95ded5ab68c" name="Selumari Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="35632e7e-f2b2-4960-b6a3-575c6af03be7" name="Selumari Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="35e9d81b-f868-44bc-91d7-05027b236cdc" name="Trog Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="36524bc0-8f8a-4a34-a3d7-f065b7447bac" name="Trog Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="368ad486-178e-4b68-8054-f05e4adca357" name="Trog Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="36f1d7d8-a6f0-4dd1-b3e6-5a64c9fda456" name="Trog Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Trog Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="37bd4de4-26cd-4228-af73-21701d2ac786" name="Trog Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Trog Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="37cca9d3-79a0-4391-9130-630ba54a58bb" name="Vagha Follower" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Follower" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Follower" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="382cdc06-1777-4f98-9aa8-bab33d6351a5" name="Vagha Spellbinder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Spellbinder" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="386fb773-d4d6-42c6-b695-c9cb810a0695" name="Vagha Sprinter" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Sprinter" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="38cf7824-bc97-46e1-bf3f-142d17c8211b" name="Vagha Toxophilite" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Toxophilite" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="38de1857-4f50-4bf8-9091-1136712a602b" name="Vagha Warder" size="Small">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Warder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Warder" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="38fafdc5-043a-4953-9d90-7eb03ff8bf2d" name="Morehl Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="3945c26a-a9dd-4a20-8d58-fe3232b9dd11" name="Morehl Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="3996fe7e-e1b4-495e-b135-297d5730a535" name="Morehl Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="39bcb1dc-767a-4ce1-8254-d87d3e57263c" name="Morehl Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="3a2edd8a-2839-49cc-935c-9ce96d6eb063" name="Selumari Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="3a51c712-90e5-41a2-9753-43a506f5916e" name="Selumari Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="3a538668-ddf6-422b-90c8-fb7ce39f2903" name="Trog Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="3ac2c620-df5b-4fdd-a1db-dde66804b094" name="Trog Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="3ad45eea-fa71-445e-a94b-efd1d85d99d2" name="Trog Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="3b95c947-7ce1-4618-a0ee-782821e81771" name="Vagha Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="3c94f5b0-3772-4773-96a3-a447f5b9737c" name="Vagha Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="3e7bad17-0bfa-4549-a4a3-5bbd923ea7fb" name="Vagha Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="3e99be56-066f-44a5-b85b-203442adff63" name="Morehl Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="3ef98b15-bfa9-495d-9bc8-62d15272adb0" name="Morehl Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="3f7909ff-f7ba-4f6a-bdf9-ed1a9efb26ff" name="Morehl Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="3fd6302f-3b4a-43ea-b97a-b55a5620994f" name="Morehl Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="3ff1cdc4-cf04-4043-b323-199788e15fcb" name="Selumari Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="41178a36-27f6-456a-a279-60ad1a7cf084" name="Selumari Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="4143e03b-7e6a-4403-bb3a-72d36db474fc" name="Trog Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="419854ab-9230-4e8c-a791-096364660329" name="Trog Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="41e02205-79e3-4f36-9342-71f5b9179052" name="Trog Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="4210695c-a903-4c53-9a72-af021eb9ab0b" name="Vagha Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="42dd7bc1-8436-4cf7-975d-ba343d51a66e" name="Vagha Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="43b14392-ad02-4c2b-8c9e-a49503281eb1" name="Vagha Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="44850e54-b52c-438b-bb9c-4929a8c2fe20" name="Morehl Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="44ef1211-f968-4e09-8692-68e15f8be43c" name="Morehl Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="4514292c-b199-43d9-a426-c02a590be997" name="Morehl Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="451e9243-9a4d-44b3-a05e-9ba05a504b00" name="Morehl Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="4522fa1d-7923-4d46-b7bb-655dde91010f" name="Selumari Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="45b411db-be95-4f16-bd07-bcc4fab93e60" name="Selumari Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="470c3c26-3c99-48dc-81cd-88519954c234" name="Trog Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="477f0519-8e5f-4a5b-8886-37547d795b41" name="Trog Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="483ad803-c1fb-4027-91ec-f7d558ae2518" name="Trog Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="49008340-9e6f-4ebf-b35b-4689ddec6ded" name="Vagha Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="491f122e-5de0-40b4-92cc-22ad6e10f82d" name="Vagha Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="499188a1-921a-4173-b1db-74773c39de82" name="Vagha Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="4a2444b7-79ec-44ba-ab18-297e25f3c2d4" name="Morehl Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="4a6a106c-1f20-4d36-9fca-f4113db9712d" name="Morehl Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="4ab2b499-3089-4a10-95fc-1f02208b5f7f" name="Morehl Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="4b0b37ea-5933-4aab-bd9b-76f86fd496ff" name="Morehl Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="4b51b020-ab67-44bc-bf13-677ad1a53502" name="Selumari Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="4c0dcfaa-d58f-4382-ae62-cd24681396a2" name="Selumari Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="4de6d051-df36-4f7a-b309-03dfb78d0e83" name="Trog Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="4e02c4fa-c1eb-4fc2-a8e1-d95f90a63749" name="Trog Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="4e634b89-383e-4894-b85f-379c268ce13c" name="Trog Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="50894208-d709-49a8-afdf-eea42f1421b4" name="Vagha Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="50ccb350-8137-4480-bc88-2215136776f1" name="Vagha Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="5157eca6-5979-400a-8aa4-afa3c39e3b3b" name="Vagha Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="51efe2a4-50d7-4268-b9a1-cc0e9379ed78" name="Morehl Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="524f82ee-d055-4782-b859-b496315d39cb" name="Morehl Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="531b3a72-4298-4785-881c-5b41ab5a7c6b" name="Morehl Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="53b64817-42b5-4d0c-8d4a-572a71de8117" name="Morehl Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Morehl Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="55b33eae-d43b-48b4-adda-077b70db776b" name="Selumari Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="56a190ba-fba5-4c7e-8012-58bbf11c8c1b" name="Selumari Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Selumari Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="56ff7789-2daa-4180-8747-c92fb39bee9e" name="Trog Devotee" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Devotee" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Devotee" size="Medium">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Trog Devotee" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Devotee" size="Medium">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+</card>
+<card id="582edb60-6223-4cd8-9f2f-9db3d4e890ca" name="Trog Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Trog Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="5846b423-f2d4-40f6-83df-015ac5c5df1c" name="Trog Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Trog Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Trog Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Trog Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Trog Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="587bcc80-b029-4d40-b67e-3b93934f8286" name="Vagha Enthraller" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Enthraller" size="Medium">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+</card>
+<card id="58ae3fa5-dae1-45e4-89a1-907e42c9367d" name="Vagha Escort" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Escort" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Escort" size="Medium">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Escort" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Escort" size="Medium">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="58f41946-0f57-444a-b794-01202d2d75fd" name="Vagha Racer" size="Medium">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Vagha Racer" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Racer" size="Medium">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Racer" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Racer" size="Medium">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="593613ce-6854-495c-bed5-a5ddd077d919" name="Morehl Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="59765195-8cb5-4372-af12-bb4fb8b6340c" name="Morehl Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="598cfc2e-3ae7-4bd5-8082-cc81b9443aaa" name="Selumari Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="59b3f1ec-b314-4ff8-9054-bcae2add0ef8" name="Trog Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Trog Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="59c0b996-fa4c-487a-a003-431f0a212d65" name="Trog Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="5a6fd947-38b0-44d1-8c04-a163b6a8b9f1" name="Vagha Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="5ab99fc5-1402-4805-9bc0-33ed65775c4d" name="Morehl Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="5b2506cf-6929-4c1c-8c56-d3fd69e4b01d" name="Morehl Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="5b37986d-4702-4cfe-b0bb-48df8b4fcd58" name="Selumari Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="5b86716e-dccf-4aef-ac7e-489103d2a15d" name="Trog Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Trog Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="5bcf7865-2200-4eaf-9f7c-0b8884d8850c" name="Trog Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="5c6b7232-c24f-4d5d-92df-e9fab7001288" name="Vagha Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="5c7ace46-2009-4fd3-b4b7-3253ec436bc7" name="Morehl Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="5cf63c35-135a-43c3-9295-3aeb2f797675" name="Morehl Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="5e72d743-cf8c-4f47-a9cc-d2a99bbb15cb" name="Selumari Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="5f56e35c-3059-4262-b293-3d147418a6e0" name="Trog Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Trog Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="5fbb4a66-7185-40d4-bb1a-a1736fc71db9" name="Trog Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="604e85e3-4e9d-4935-bad0-e33a407a437e" name="Vagha Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="614287a6-9937-40c3-bc2f-a550330a75dc" name="Morehl Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="6234f118-8b7e-42b7-8f96-235d5d7d0eaf" name="Morehl Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="627a3a20-277c-461b-a9e8-b233c71d3099" name="Selumari Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="6286475e-d9ea-4269-8be9-891147484ddc" name="Trog Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Trog Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="6325845a-04b0-4a1d-b818-796b996d4119" name="Trog Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="63515560-14ad-4149-99fb-d2c85640f042" name="Vagha Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="640df68b-6064-4538-bbdf-4f899e988d1b" name="Morehl Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="6436fc8e-d1a3-4473-9d9a-fbe5a7ef6c30" name="Morehl Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Morehl Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="657e1df6-3ed3-419e-b98d-eac918457fa3" name="Selumari Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Selumari Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Selumari Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Selumari Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="666e0cbe-2f68-44ca-96f8-3f671b87691d" name="Trog Disciple" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Trog Disciple" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt4" name="Trog Disciple" size="Large">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Trog Disciple" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="68209130-5f34-4699-8a34-0db1fa7ad2f0" name="Trog Sorcerer" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt5" name="Trog Sorcerer" size="Large">
+<property name="Icons" value="3 Fly"/>
+</alternate>
+</card>
+<card id="68527f30-ae3c-4900-85ca-fbc2efc776f7" name="Vagha Bodyguard" size="Large">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt5" name="Vagha Bodyguard" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="69fea0ae-12cd-4ea0-b732-a039a822f70b" name="Death Dragon Hunter" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt2" name="Death Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Death Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Death Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Death Dragon Hunter" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6a6f2593-774b-4db2-af02-9c9d0c6f059e" name="Air Dragon Hunter" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt2" name="Air Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Air Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Air Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Air Dragon Hunter" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6ada6cc7-f96c-4c7d-953a-fca03ccb6ff3" name="Water Dragon Hunter" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt2" name="Water Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Water Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Water Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Water Dragon Hunter" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6ae38462-f757-446f-b217-a1946f67c705" name="Fire Dragon Hunter" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt2" name="Fire Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Fire Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Fire Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Fire Dragon Hunter" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6b35f887-2c47-49be-8aa8-ec6ed8c1f79d" name="Earth Dragon Hunter" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt2" name="Earth Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Earth Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Earth Dragon Hunter" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Earth Dragon Hunter" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6b4b423b-aa8f-4309-9655-6a04c5b9bea0" name="Dragonslayer" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="White"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonslayer" size="Champion">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+<alternate type="Alt2" name="Dragonslayer" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Dragonslayer" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Dragonslayer" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Dragonslayer" size="Champion">
+<property name="Icons" value="1 Logo"/>
+</alternate>
+</card>
+<card id="6b757532-a8c5-4359-8855-d13e6bf7bcdc" name="Death Dragon Zealot" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt2" name="Death Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Death Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt4" name="Death Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Death Dragon Zealot" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6bac2396-02f3-4008-b8d6-5abc41e1a8ba" name="Air Dragon Zealot" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt2" name="Air Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Air Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt4" name="Air Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Air Dragon Zealot" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6bb76fdf-65e1-45aa-954f-45009dca9ee5" name="Water Dragon Zealot" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt2" name="Water Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Water Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt4" name="Water Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Water Dragon Zealot" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6bd1cf9b-d3fe-4b13-85d0-fdfb8737cae8" name="Fire Dragon Zealot" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt2" name="Fire Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Fire Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt4" name="Fire Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Fire Dragon Zealot" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6bfee8c2-73a1-4f08-b27e-13e6716fa5b3" name="Earth Dragon Zealot" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt2" name="Earth Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Earth Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt4" name="Earth Dragon Zealot" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Earth Dragon Zealot" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6c6dad43-5cde-4174-8979-76f3130dcbec" name="Dragoncrusader" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="White"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Shield Bearer"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragoncrusader" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt2" name="Dragoncrusader" size="Champion">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Dragoncrusader" size="Champion">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt4" name="Dragoncrusader" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Dragoncrusader" size="Champion">
+<property name="Icons" value="1 Logo"/>
+</alternate>
+</card>
+<card id="6c9e08df-272a-44cf-9794-be2cf6b7e4ed" name="Death Dragon Master" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Dragon Master" size="Champion">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt2" name="Death Dragon Master" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Death Dragon Master" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Death Dragon Master" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Death Dragon Master" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6cca4e58-8254-4fd9-a92f-60353bbf4caf" name="Air Dragon Master" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Dragon Master" size="Champion">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt2" name="Air Dragon Master" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Air Dragon Master" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Air Dragon Master" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Air Dragon Master" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6d7d85a7-e4ac-4a08-b53d-40fa05214143" name="Water Dragon Master" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Dragon Master" size="Champion">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt2" name="Water Dragon Master" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Water Dragon Master" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Water Dragon Master" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Water Dragon Master" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6d90591e-55fb-4b5f-a707-0459f4220035" name="Fire Dragon Master" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Dragon Master" size="Champion">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt2" name="Fire Dragon Master" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Fire Dragon Master" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Fire Dragon Master" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Fire Dragon Master" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6dfe3ed1-455b-4eac-99a9-e8a6e7529df2" name="Earth Dragon Master" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Dragon Master" size="Champion">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt2" name="Earth Dragon Master" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Earth Dragon Master" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Earth Dragon Master" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Earth Dragon Master" size="Champion">
+<property name="Icons" value="1 Logo, 2 ID"/>
+</alternate>
+</card>
+<card id="6e5edbc6-fc1f-477d-8477-2e190a537002" name="Dragonlord" size="Champion">
+<property name="Species" value="Eldarim"/>
+<property name="Element" value="White"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Dragonlord" size="Champion">
+<property name="Icons" value="4 Cantrip"/>
+</alternate>
+<alternate type="Alt2" name="Dragonlord" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Dragonlord" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt4" name="Dragonlord" size="Champion">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Dragonlord" size="Champion">
+<property name="Icons" value="1 Logo"/>
+</alternate>
+</card>
+</cards>
+</set>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="a403c3ba-ecb8-4cda-95f5-41e4c36a9d68">Feyland Standing Stone</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="2" id="83d9b69d-8a40-4737-8d1f-0fc107c5b087">Trickster</card>
+    <card qty="2" id="9619b044-85ce-40ca-8a6e-6bcc38ebc18c">Adept</card>
+    <card qty="1" id="77ad48f3-41c0-42b0-bba2-e885bcabde7e">Lich</card>
+    <card qty="2" id="a15ed5df-c777-4e6d-acc0-c96c72b3df21">Heucuva</card>
+    <card qty="2" id="138f4103-1207-4549-8e10-675ffe5ed943">Apparition</card>
+    <card qty="2" id="0fcb88f5-740a-4710-8f2e-9345e9e0bcc5">Death Ring of Stars</card>
+    <card qty="2" id="06f85903-6f65-421d-8bfc-7fb4efd02bd0">Death Sight Stone</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="58902001-ab26-48e6-8855-a3c19fd1f0f6">Wasteland Dragons Lair</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="3" id="f4f7407d-8acd-44bd-9b34-0b4d74313b4c">Vampire</card>
+    <card qty="2" id="c2170a0c-b4cc-445c-89b2-6b7a16c938d8">Ghast</card>
+    <card qty="4" id="138f4103-1207-4549-8e10-675ffe5ed943">Apparition</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="1" id="de0c4fe1-b3ba-4740-ab79-6f142a1aa9f4">Ghoul</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="2" id="9fa5d671-db72-42ab-8b84-fe01a70b79fe">Blue / Green Wyrm</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="2" id="06d63007-7887-44fa-acde-2077fd69ebb8">Deadland Village</card>
+    <card qty="2" id="077751d6-e88a-4d7d-840f-336e05d033b5">Deadland Woods</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="3" id="0e986a14-6d9f-458b-9882-efc0b7119638">Dragontroop </card>
+    <card qty="1" id="0f7b3604-1f41-4a85-8ad1-b9ce5bfafda2">Dragonhero </card>
+    <card qty="1" id="1bda2b3d-2025-405b-8070-ee4a0352798a">Dragonchamp </card>
+    <card qty="1" id="1e7fa76c-af18-491a-94f3-afd2ca80f179">Dragonvictor</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

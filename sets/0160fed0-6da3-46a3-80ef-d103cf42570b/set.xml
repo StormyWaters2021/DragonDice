@@ -1,0 +1,2151 @@
+<set
+    name="Items"
+    id="0160fed0-6da3-46a3-80ef-d103cf42570b"
+    gameId="0000ac4a-0bf6-4c10-8f05-e32e53e57518"
+    version="1.0.0.0"
+    gameVersion="1.0.0.0">
+<cards>
+<card id="71ee20a8-c595-4398-800c-aa2d30be0e45" name="Air Blade Golem" size="Artifact">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt7" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt8" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt9" name="Air Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="527f1260-445b-401b-8dfe-edba383598d4" name="Air Dawn Blade" size="Medium">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Air Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Air Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Air Dawn Blade" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="6d7025fd-f6f2-4046-af2c-f5745122ba93" name="Air Dragonstaff" size="Artifact">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt2" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt6" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt7" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt8" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Air Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="5a1aef4a-f6e9-4d81-ab24-575e2bd80b75" name="Air Eyebiter" size="Medium">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Air Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Air Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Air Eyebiter" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+</card>
+<card id="3fb24842-dfce-4f5c-ac21-466853daf358" name="Air Flicker Foil" size="Small">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Air Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Air Flicker Foil" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Air Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="6e31b598-9760-4a7d-8ce9-e86988a23606" name="Air Flying Carpet" size="Artifact">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt2" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt6" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt7" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt8" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt9" name="Air Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="6a1e3f8f-7d22-47ae-bb6b-427d365724d0" name="Air Heartseeker" size="Large">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Air Heartseeker" size="Large">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Air Heartseeker" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Air Heartseeker" size="Large">
+<property name="Icons" value="3 Impale"/>
+</alternate>
+</card>
+<card id="5f6a1396-e032-44c8-8429-e5aed71b632a" name="Air Magi Crown" size="Large">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Air Magi Crown" size="Large">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Air Magi Crown" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Air Magi Crown" size="Large">
+<property name="Icons" value="3 Attune"/>
+</alternate>
+</card>
+<card id="7457b1df-2596-4b15-b11d-df97554dfdce" name="Air Mantlet" size="Artifact">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt2" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt5" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt6" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt7" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt8" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Air Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="6b566e61-0f2f-4d68-b9cb-a3d409885c5e" name="Air Mithril Shield" size="Large">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Air Mithril Shield" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Air Mithril Shield" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Air Mithril Shield" size="Large">
+<property name="Icons" value="3 Bash"/>
+</alternate>
+</card>
+<card id="49064f7c-0da5-44b4-9474-f77788ef806d" name="Air Ring of Stars" size="Medium">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Air Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Air Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Air Ring of Stars" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+</card>
+<card id="607c79a3-ad5b-4f1c-85af-9b6dbc14c256" name="Air Seven League Boots" size="Large">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Air Seven League Boots" size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Air Seven League Boots" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Air Seven League Boots" size="Large">
+<property name="Icons" value="3 Wayfare"/>
+</alternate>
+</card>
+<card id="3898d27e-80d7-4e93-b8cb-0962507b6528" name="Air Sight Stone" size="Small">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Air Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Air Sight Stone" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Air Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="3c8dd5ee-9010-4a9c-a26a-daf0f05fc4bb" name="Air Speed Slippers" size="Small">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Air Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Air Speed Slippers" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Air Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="5bcf3370-1996-4b4f-99ac-27b8857cd82f" name="Air Steel Buckler" size="Medium">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Air Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Air Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Air Steel Buckler" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+</card>
+<card id="737a4920-0327-43b5-a31d-2ce3a6596b42" name="Air Trebuchet" size="Artifact">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt2" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt7" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt8" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Air Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="40f62f19-caa0-46fd-bebe-e6853eaea519" name="Air Trueflyer" size="Small">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Air Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Air Trueflyer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Air Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="632f9caf-2c92-4ba9-a3ed-0d970a5661bd" name="Air Vorpal Sword" size="Large">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Air Vorpal Sword" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Air Vorpal Sword" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Air Vorpal Sword" size="Large">
+<property name="Icons" value="3 Decapitate"/>
+</alternate>
+</card>
+<card id="4c14a320-1ae0-479b-999d-e9e8e5da24c5" name="Air Winged Sandals" size="Medium">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Air Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Air Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Air Winged Sandals" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="43f5ba52-f2c8-45e3-ad51-0ed1cfb5e16f" name="Air Wooden Targe" size="Small">
+<property name="Element" value="Blue (Air)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Air Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Air Wooden Targe" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Air Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="ecd5b245-3d88-473c-a09a-468222db4b50" name="Bronze Medallion" size="Medallion">
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Medallion"/>
+<property name="Size" value="Medallion"/>
+<property name="Class" value="None"/>
+<property name="Icons" value="4 Logo"/>
+<alternate type="Alt1" name="Bronze Medallion" size="Medallion">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Medallion" size="Medallion">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Medallion" size="Medallion">
+<property name="Icons" value="4 Wayfare"/>
+</alternate>
+</card>
+<card id="300d6d3d-8914-47bf-b202-7a240636c3a2" name="Death Blade Golem" size="Artifact">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt7" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt8" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt9" name="Death Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="170f5633-3609-4514-ac22-005c56a94909" name="Death Dawn Blade" size="Medium">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Death Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Death Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Death Dawn Blade" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="2eeed622-466c-4c33-a4e3-3ed6d3f60b28" name="Death Dragonstaff" size="Artifact">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt2" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt6" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt7" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt8" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Death Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="1b30501d-ddef-4484-8162-3f0af351090f" name="Death Eyebiter" size="Medium">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Death Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Death Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Death Eyebiter" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+</card>
+<card id="0951a881-651b-47e9-b2a8-3afd7fffcef8" name="Death Flicker Foil" size="Small">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Death Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Death Flicker Foil" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Death Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="2f08790e-d018-47d4-8c85-d3032a59fb8e" name="Death Flying Carpet" size="Artifact">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt2" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt6" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt7" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt8" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt9" name="Death Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="2bfad363-97bc-4863-b087-515a830e810e" name="Death Heartseeker" size="Large">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Death Heartseeker" size="Large">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Death Heartseeker" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Death Heartseeker" size="Large">
+<property name="Icons" value="3 Impale"/>
+</alternate>
+</card>
+<card id="26f196c2-0313-4e31-a618-21ec9a2fd604" name="Death Magi Crown" size="Large">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Death Magi Crown" size="Large">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Death Magi Crown" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Death Magi Crown" size="Large">
+<property name="Icons" value="3 Attune"/>
+</alternate>
+</card>
+<card id="35f6381e-32c9-41b7-a6df-135a6f6aaba0" name="Death Mantlet" size="Artifact">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt2" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt5" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt6" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt7" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt8" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Death Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="2d0e7d0b-186e-4aad-be7b-701cdd5ea092" name="Death Mithril Shield" size="Large">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Death Mithril Shield" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Death Mithril Shield" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Death Mithril Shield" size="Large">
+<property name="Icons" value="3 Bash"/>
+</alternate>
+</card>
+<card id="0fcb88f5-740a-4710-8f2e-9345e9e0bcc5" name="Death Ring of Stars" size="Medium">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Death Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Death Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Death Ring of Stars" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+</card>
+<card id="28404d9e-e14b-41e1-9eee-a79620a0cbf3" name="Death Seven League Boots" size="Large">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Death Seven League Boots" size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Death Seven League Boots" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Death Seven League Boots" size="Large">
+<property name="Icons" value="3 Wayfare"/>
+</alternate>
+</card>
+<card id="06f85903-6f65-421d-8bfc-7fb4efd02bd0" name="Death Sight Stone" size="Small">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Death Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Death Sight Stone" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Death Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="0716be89-0850-4f66-bc30-9da6dd0852ed" name="Death Speed Slippers" size="Small">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Death Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Death Speed Slippers" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Death Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="1bbbcc42-70ef-43e7-83d7-fd65194ecec9" name="Death Steel Buckler" size="Medium">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Death Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Death Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Death Steel Buckler" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+</card>
+<card id="3175afa8-2cdf-4021-bd6f-313856d4f57f" name="Death Trebuchet" size="Artifact">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt2" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt7" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt8" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Death Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="0da6afb3-0bb1-4692-b099-20369acdcd5c" name="Death Trueflyer" size="Small">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Death Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Death Trueflyer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Death Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="2aa3e3a7-cbc5-48ba-9555-9ac1c974441f" name="Death Vorpal Sword" size="Large">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Death Vorpal Sword" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Death Vorpal Sword" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Death Vorpal Sword" size="Large">
+<property name="Icons" value="3 Decapitate"/>
+</alternate>
+</card>
+<card id="11aed4f6-f9a6-448d-bca1-230b7534883e" name="Death Winged Sandals" size="Medium">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Death Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Death Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Death Winged Sandals" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="0efe8155-f151-46c0-925f-43d1a8c153aa" name="Death Wooden Targe" size="Small">
+<property name="Element" value="Black (Death)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Death Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Death Wooden Targe" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Death Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="dd53e968-8832-42b4-9892-ea58bf006486" name="Earth Blade Golem" size="Artifact">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt7" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt8" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt9" name="Earth Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="c8d61b14-76af-4487-ad22-391af32c4c09" name="Earth Dawn Blade" size="Medium">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Earth Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Earth Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Earth Dawn Blade" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="da91cd7a-964a-4366-94e2-635bfca1abf4" name="Earth Dragonstaff" size="Artifact">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt2" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt6" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt7" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt8" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Earth Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="c931c8b1-3d91-41b2-9020-d30c60d12432" name="Earth Eyebiter" size="Medium">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Earth Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Earth Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Earth Eyebiter" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+</card>
+<card id="c245180f-d36d-40ff-8c9b-8b819ee4a325" name="Earth Flicker Foil" size="Small">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Earth Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Earth Flicker Foil" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Earth Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="dcaf79b4-f88f-4202-ba2d-17442a1c907e" name="Earth Flying Carpet" size="Artifact">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt2" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt6" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt7" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt8" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt9" name="Earth Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="d8b4741e-ec8b-42e7-9475-1c57d8e36b00" name="Earth Heartseeker" size="Large">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Earth Heartseeker" size="Large">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Earth Heartseeker" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Earth Heartseeker" size="Large">
+<property name="Icons" value="3 Impale"/>
+</alternate>
+</card>
+<card id="cc836d23-2e84-4eaf-a0ed-b77dad7ef1e5" name="Earth Magi Crown" size="Large">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Earth Magi Crown" size="Large">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Earth Magi Crown" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Earth Magi Crown" size="Large">
+<property name="Icons" value="3 Attune"/>
+</alternate>
+</card>
+<card id="e6bfd805-2353-4872-a2ce-2808dd7b0b65" name="Earth Mantlet" size="Artifact">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt2" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt5" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt6" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt7" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt8" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Earth Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="da875fe8-04a9-408e-85d3-c612c4fed672" name="Earth Mithril Shield" size="Large">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Earth Mithril Shield" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Earth Mithril Shield" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Earth Mithril Shield" size="Large">
+<property name="Icons" value="3 Bash"/>
+</alternate>
+</card>
+<card id="c59dbd49-f0e3-4a99-96c8-036af80a325e" name="Earth Ring of Stars" size="Medium">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Earth Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Earth Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Earth Ring of Stars" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+</card>
+<card id="d3b6ccc8-8bfa-4642-87f0-b2be70f061d3" name="Earth Seven League Boots" size="Large">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Earth Seven League Boots" size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Earth Seven League Boots" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Earth Seven League Boots" size="Large">
+<property name="Icons" value="3 Wayfare"/>
+</alternate>
+</card>
+<card id="bc4e6b5a-0b18-4984-abbb-126abd5ba992" name="Earth Sight Stone" size="Small">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Earth Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Earth Sight Stone" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Earth Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="bf71b33d-04d5-4904-8124-f74706322f36" name="Earth Speed Slippers" size="Small">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Earth Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Earth Speed Slippers" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Earth Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="cb5d271c-4b1d-432e-9e21-c1c4b8cee765" name="Earth Steel Buckler" size="Medium">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Earth Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Earth Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Earth Steel Buckler" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+</card>
+<card id="e491e842-3f3f-4e7c-9d82-c3605479d2fb" name="Earth Trebuchet" size="Artifact">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt2" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt7" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt8" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Earth Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="c49d4a41-06d8-4506-b2e8-55a9e420de9e" name="Earth Trueflyer" size="Small">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Earth Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Earth Trueflyer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Earth Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="d8aa941b-5f56-4cd4-9c67-1a57bb7e009c" name="Earth Vorpal Sword" size="Large">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Earth Vorpal Sword" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Earth Vorpal Sword" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Earth Vorpal Sword" size="Large">
+<property name="Icons" value="3 Decapitate"/>
+</alternate>
+</card>
+<card id="c67db21f-8548-4ffd-bd7b-bd201061a391" name="Earth Winged Sandals" size="Medium">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Earth Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Earth Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Earth Winged Sandals" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="c537fc46-91ac-40a6-9ec4-41612b998829" name="Earth Wooden Targe" size="Small">
+<property name="Element" value="Yellow (Earth)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Earth Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Earth Wooden Targe" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Earth Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="f6cd0c90-b08c-4669-95e9-1f00bff87a88" name="Earthfang" size="Relic">
+<property name="Element" value="None"/>
+<property name="Type" value="Relic"/>
+<property name="Size" value="Relic"/>
+<property name="Class" value="None"/>
+<property name="Icons" value="4 Logo"/>
+<alternate type="Alt1" name="Earthfang" size="Relic">
+<property name="Icons" value="4 Bash"/>
+</alternate>
+<alternate type="Alt2" name="Earthfang" size="Relic">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt3" name="Earthfang" size="Relic">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt4" name="Earthfang" size="Relic">
+<property name="Icons" value="4 Sneak Attack"/>
+</alternate>
+<alternate type="Alt5" name="Earthfang" size="Relic">
+<property name="Icons" value="4 Counter"/>
+</alternate>
+</card>
+<card id="efe7e982-60b4-431f-882a-4141f4b4a1a0" name="Elemental Relic" size="Relic">
+<property name="Element" value="None"/>
+<property name="Type" value="Relic"/>
+<property name="Size" value="Relic"/>
+<property name="Class" value="None"/>
+<property name="Icons" value="4 Logo"/>
+<alternate type="Alt1" name="Elemental Relic" size="Relic">
+<property name="Icons" value="4 Element Death"/>
+</alternate>
+<alternate type="Alt2" name="Elemental Relic" size="Relic">
+<property name="Icons" value="4 Element Earth"/>
+</alternate>
+<alternate type="Alt3" name="Elemental Relic" size="Relic">
+<property name="Icons" value="4 Element Air"/>
+</alternate>
+<alternate type="Alt4" name="Elemental Relic" size="Relic">
+<property name="Icons" value="4 Element Fire"/>
+</alternate>
+<alternate type="Alt5" name="Elemental Relic" size="Relic">
+<property name="Icons" value="4 Element Water"/>
+</alternate>
+</card>
+<card id="b8086c97-2a1b-4015-aa4a-276e8d988ce5" name="Fire Blade Golem" size="Artifact">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt7" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt8" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt9" name="Fire Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="a6a9328a-9d43-496f-b6a4-2dc8677b2bd6" name="Fire Dawn Blade" size="Medium">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Fire Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Fire Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Fire Dawn Blade" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="b4768414-895a-4ff0-835b-1cbf1cf1a2fe" name="Fire Dragonstaff" size="Artifact">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt2" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt6" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt7" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt8" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Fire Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="a75abda4-19e5-4a2a-987a-9a15bfc64b53" name="Fire Eyebiter" size="Medium">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Fire Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Fire Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Fire Eyebiter" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+</card>
+<card id="99337afa-855b-46a3-95e3-14965d3bc87b" name="Fire Flicker Foil" size="Small">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Fire Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Fire Flicker Foil" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Fire Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="b7bc0a36-5b81-4522-be8d-e4dc9546f44e" name="Fire Flying Carpet" size="Artifact">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt2" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt6" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt7" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt8" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt9" name="Fire Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="b02338a6-2e5d-4cbf-82df-58e3b10ae30e" name="Fire Heartseeker" size="Large">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Fire Heartseeker" size="Large">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Fire Heartseeker" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Fire Heartseeker" size="Large">
+<property name="Icons" value="3 Impale"/>
+</alternate>
+</card>
+<card id="ac550520-94db-41cd-9cc2-9b99db85bec0" name="Fire Magi Crown" size="Large">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Fire Magi Crown" size="Large">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Fire Magi Crown" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Fire Magi Crown" size="Large">
+<property name="Icons" value="3 Attune"/>
+</alternate>
+</card>
+<card id="bbfc3ff6-a2d3-4fb1-8fb5-0a7cf12f9cce" name="Fire Mantlet" size="Artifact">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt2" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt5" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt6" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt7" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt8" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Fire Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="b28c85ef-1b13-43da-bf6a-7381a47c6263" name="Fire Mithril Shield" size="Large">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Fire Mithril Shield" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Fire Mithril Shield" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Fire Mithril Shield" size="Large">
+<property name="Icons" value="3 Bash"/>
+</alternate>
+</card>
+<card id="9c56a9c4-c16f-4d9b-a40b-580029f7c465" name="Fire Ring of Stars" size="Medium">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Fire Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Fire Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Fire Ring of Stars" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+</card>
+<card id="ad6ef496-44bc-457f-a362-0ba37325d395" name="Fire Seven League Boots" size="Large">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Fire Seven League Boots" size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Fire Seven League Boots" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Fire Seven League Boots" size="Large">
+<property name="Icons" value="3 Wayfare"/>
+</alternate>
+</card>
+<card id="95f9ddc9-fe5f-4966-95ff-f4bf74f96de7" name="Fire Sight Stone" size="Small">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Fire Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Fire Sight Stone" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Fire Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="98c804b5-4888-4540-9b3e-f4de74a1f1d9" name="Fire Speed Slippers" size="Small">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Fire Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Fire Speed Slippers" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Fire Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="a965a6eb-3107-4340-b0c6-c0da358f391f" name="Fire Steel Buckler" size="Medium">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Fire Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Fire Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Fire Steel Buckler" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+</card>
+<card id="b86c4184-1752-47f1-ab6a-3a06963543c4" name="Fire Trebuchet" size="Artifact">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt2" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt7" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt8" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Fire Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="9966fcf8-75a4-402f-893f-7f35381d8689" name="Fire Trueflyer" size="Small">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Fire Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Fire Trueflyer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Fire Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="ad84000e-678f-4745-9d19-e7a1dd90673a" name="Fire Vorpal Sword" size="Large">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Fire Vorpal Sword" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Fire Vorpal Sword" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Fire Vorpal Sword" size="Large">
+<property name="Icons" value="3 Decapitate"/>
+</alternate>
+</card>
+<card id="a137bca5-d73c-4356-a6cc-28651485cbb9" name="Fire Winged Sandals" size="Medium">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Fire Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Fire Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Fire Winged Sandals" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="9ab75016-0019-44bd-9d59-fd114752901e" name="Fire Wooden Targe" size="Small">
+<property name="Element" value="Red (Fire)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Fire Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Fire Wooden Targe" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Fire Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+<card id="eead5063-771d-4e87-87e3-8a4a86398cee" name="Gold Medallion" size="Medallion">
+<property name="Element" value="Gold"/>
+<property name="Type" value="Medallion"/>
+<property name="Size" value="Medallion"/>
+<property name="Class" value="None"/>
+<property name="Icons" value="4 Logo"/>
+<alternate type="Alt1" name="Gold Medallion" size="Medallion">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Gold Medallion" size="Medallion">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt3" name="Gold Medallion" size="Medallion">
+<property name="Icons" value="4 Wayfare"/>
+</alternate>
+</card>
+<card id="ee8f18b3-9f61-4c25-83ce-cc1a27fe648a" name="Silver Medallion" size="Medallion">
+<property name="Element" value="Silver"/>
+<property name="Type" value="Medallion"/>
+<property name="Size" value="Medallion"/>
+<property name="Class" value="None"/>
+<property name="Icons" value="4 Logo"/>
+<alternate type="Alt1" name="Silver Medallion" size="Medallion">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Silver Medallion" size="Medallion">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt3" name="Silver Medallion" size="Medallion">
+<property name="Icons" value="4 Wayfare"/>
+</alternate>
+</card>
+<card id="93ea39dd-0bf8-42a8-9a52-44457e9fb089" name="Water Blade Golem" size="Artifact">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt2" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Flurry"/>
+</alternate>
+<alternate type="Alt7" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt8" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt9" name="Water Blade Golem" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="82054d7c-5c4a-4295-9b6e-4f2a09667fac" name="Water Dawn Blade" size="Medium">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Water Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Water Dawn Blade" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Water Dawn Blade" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+</card>
+<card id="8ee52ccf-7610-409d-b6f4-311c97d922e8" name="Water Dragonstaff" size="Artifact">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt2" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt6" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Summon Dragon"/>
+</alternate>
+<alternate type="Alt7" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt8" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Water Dragonstaff" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="82a2a6e3-83f0-4091-b2af-ce2337012f3e" name="Water Eyebiter" size="Medium">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Water Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Water Eyebiter" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Water Eyebiter" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+</card>
+<card id="7cd0038c-01a7-4501-85b4-bee2d654e7d9" name="Water Flicker Foil" size="Small">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Water Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Water Flicker Foil" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Water Flicker Foil" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+</card>
+<card id="921cafff-e34e-45d4-a1d0-cd499b7d475e" name="Water Flying Carpet" size="Artifact">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt2" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt6" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Elevate"/>
+</alternate>
+<alternate type="Alt7" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt8" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt9" name="Water Flying Carpet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="8a043f16-bf2c-4e56-85d7-0b6689c1c539" name="Water Heartseeker" size="Large">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Water Heartseeker" size="Large">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Water Heartseeker" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Water Heartseeker" size="Large">
+<property name="Icons" value="3 Impale"/>
+</alternate>
+</card>
+<card id="85747e7b-18f1-4175-9ca3-a8b50165c817" name="Water Magi Crown" size="Large">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Water Magi Crown" size="Large">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Water Magi Crown" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Water Magi Crown" size="Large">
+<property name="Icons" value="3 Attune"/>
+</alternate>
+</card>
+<card id="95f730e6-f7cc-4a91-bb9a-dffff97f867a" name="Water Mantlet" size="Artifact">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt2" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt3" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt5" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt6" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Sortie"/>
+</alternate>
+<alternate type="Alt7" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt8" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Water Mantlet" size="Artifact">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+</card>
+<card id="8e6d7766-f8d8-42cd-b9a6-ce317f381fae" name="Water Mithril Shield" size="Large">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Water Mithril Shield" size="Large">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Water Mithril Shield" size="Large">
+<property name="Icons" value="3 Save"/>
+</alternate>
+<alternate type="Alt3" name="Water Mithril Shield" size="Large">
+<property name="Icons" value="3 Bash"/>
+</alternate>
+</card>
+<card id="7ea9d98b-361b-4ac7-ab19-4fbd5cf1b15b" name="Water Ring of Stars" size="Medium">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Water Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Water Ring of Stars" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Water Ring of Stars" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+</card>
+<card id="86d3f958-daf0-4b23-969c-d5964169310a" name="Water Seven League Boots" size="Large">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Water Seven League Boots" size="Large">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Water Seven League Boots" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Water Seven League Boots" size="Large">
+<property name="Icons" value="3 Wayfare"/>
+</alternate>
+</card>
+<card id="75d231ab-e3ba-4023-bb6c-1bf0e6f516ac" name="Water Sight Stone" size="Small">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 Magic"/>
+<alternate type="Alt1" name="Water Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Water Sight Stone" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Water Sight Stone" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+</card>
+<card id="799fbd2a-e0f2-453a-a98e-8803762c64c9" name="Water Speed Slippers" size="Small">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Water Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Water Speed Slippers" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Water Speed Slippers" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+</card>
+<card id="82c9dc49-3402-4dd2-84f4-c0b526683acc" name="Water Steel Buckler" size="Medium">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Water Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Water Steel Buckler" size="Medium">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt3" name="Water Steel Buckler" size="Medium">
+<property name="Icons" value="3 Save"/>
+</alternate>
+</card>
+<card id="95c2855f-98d2-4913-abad-f59be8fad005" name="Water Trebuchet" size="Artifact">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Artifact"/>
+<property name="Size" value="Artifact"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt2" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+<alternate type="Alt4" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Crush"/>
+</alternate>
+<alternate type="Alt7" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt8" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt9" name="Water Trebuchet" size="Artifact">
+<property name="Icons" value="4 Save"/>
+</alternate>
+</card>
+<card id="7d08ed3a-3d3c-4ca1-b4b3-c7255477213c" name="Water Trueflyer" size="Small">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 Missile"/>
+<alternate type="Alt1" name="Water Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Water Trueflyer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Water Trueflyer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+</card>
+<card id="86f9a2cb-74a8-4a6a-b90f-310e7ffaabbf" name="Water Vorpal Sword" size="Large">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Melee"/>
+<property name="Icons" value="1 Melee"/>
+<alternate type="Alt1" name="Water Vorpal Sword" size="Large">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Water Vorpal Sword" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Water Vorpal Sword" size="Large">
+<property name="Icons" value="3 Decapitate"/>
+</alternate>
+</card>
+<card id="810ca89a-e247-4039-b8d4-5078d9dfc327" name="Water Winged Sandals" size="Medium">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Maneuver"/>
+<property name="Icons" value="1 Maneuver"/>
+<alternate type="Alt1" name="Water Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Water Winged Sandals" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Water Winged Sandals" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+</card>
+<card id="7d5dffc6-5a7d-46ca-888e-a251066645bc" name="Water Wooden Targe" size="Small">
+<property name="Element" value="Green (Water)"/>
+<property name="Type" value="Item"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Save"/>
+<property name="Icons" value="1 Save"/>
+<alternate type="Alt1" name="Water Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+<alternate type="Alt2" name="Water Wooden Targe" size="Small">
+<property name="Icons" value="1 Save"/>
+</alternate>
+<alternate type="Alt3" name="Water Wooden Targe" size="Small">
+<property name="Icons" value="2 Save"/>
+</alternate>
+</card>
+</cards>
+</set>

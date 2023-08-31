@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="a403c3ba-ecb8-4cda-95f5-41e4c36a9d68">Feyland Standing Stone</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="1" id="e6392fbc-f6f6-475b-94ad-55d22625e9b2">Hamadryad</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="b158d8d8-00a8-4781-b506-07fb09a4d138">Feyland Grove</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="2" id="b2b01d6d-085a-497c-84cc-6ef09f270e63">Eldar Dryad</card>
+    <card qty="1" id="ec602426-17c5-4887-9ad9-464c7762523e">Dryad</card>
+    <card qty="1" id="e6392fbc-f6f6-475b-94ad-55d22625e9b2">Hamadryad</card>
+    <card qty="2" id="a3f4c34e-eb53-4345-8966-2f834cd313c6">Sparker</card>
+    <card qty="1" id="0346f1ee-28a6-4b2d-bb40-07d3a5fa9d83">Bog Adept</card>
+    <card qty="2" id="75d231ab-e3ba-4023-bb6c-1bf0e6f516ac">Water Sight Stone</card>
+    <card qty="2" id="7ea9d98b-361b-4ac7-ab19-4fbd5cf1b15b">Water Ring of Stars</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="6" id="87d46ff2-616e-410a-af91-5160e0b620ef">Bog Runner</card>
+    <card qty="4" id="59ef88fd-8481-4c2b-99fe-04a6108c8d10">Marsh Swimmer</card>
+    <card qty="1" id="6bb76fdf-65e1-45aa-954f-45009dca9ee5">Water Dragon Zealot</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="1" id="e291227a-9388-49fc-adb0-3c9b10dfc344">White Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="1" id="077751d6-e88a-4d7d-840f-336e05d033b5">Deadland Woods</card>
+    <card qty="1" id="d9dfdc8a-40cd-4ba7-8e5b-9124cbdf0c8a">Swampland Bridge</card>
+    <card qty="1" id="ddaa2f9d-300a-40a4-91e0-f7b3d3e6641d">Swampland Woods</card>
+    <card qty="1" id="b43058c6-8d36-4a14-86fc-17c51ae47011">Feyland Bridge</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="3" id="651126d4-f340-4d5c-be5c-445bb124230f">Dragonfoal </card>
+    <card qty="1" id="6f5abd8f-b096-46e2-8c01-7bc7d9d63bcf">Dragonmount </card>
+    <card qty="1" id="711e8b2f-5c74-45b8-9245-b1e8fa47d030">Dragonsteed </card>
+    <card qty="1" id="72289886-32ec-4b0a-b3c8-6fe1b3f6272f">Dragonstallion</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
