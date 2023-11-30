@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="c338dfd2-3609-4a7c-972a-7a8c444a9c2f">Swampland City</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="3" id="61ffee44-45d6-45ac-8db8-8109fff026e5">Willowing</card>
+    <card qty="2" id="29f6dd58-1b8f-4743-b8cd-56d0958d85ae">Willow</card>
+    <card qty="2" id="a99369d6-f724-4b2c-8efc-97c8e186b62c">Oak Lord</card>
+    <card qty="1" id="dd8eb4a6-176a-404c-9145-d07445bb0b18">Strangle Vine</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="ccc2582e-6a6e-454d-9b16-3011075bc8cb">Swampland Castle</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="1" id="61ffee44-45d6-45ac-8db8-8109fff026e5">Willowing</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="1" id="61ffee44-45d6-45ac-8db8-8109fff026e5">Willowing</card>
+    <card qty="2" id="d2e06e7f-5235-425b-a77a-0aaa1d95bec7">Nymph</card>
+    <card qty="1" id="13457675-1290-4d63-95fb-7ef17aaef219">Naiad</card>
+    <card qty="2" id="29f6dd58-1b8f-4743-b8cd-56d0958d85ae">Willow</card>
+    <card qty="3" id="1a225fbb-1603-4c85-b08a-7725d6b89629">Lady Nereid</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="2" id="245f0bf5-c420-4681-8fb7-d9eacf71dd2a">Yellow Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="1" id="3f66ee7c-1d3d-4456-b2c7-395f8b58ba4b">Coastland Village</card>
+    <card qty="1" id="9f3615a5-80e7-4b34-99d6-0306c1d90d14">Flatland Village</card>
+    <card qty="2" id="dd7dda8f-01ef-4d59-b2da-3fa284074732">Swampland Village</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="6" id="651126d4-f340-4d5c-be5c-445bb124230f">Dragonfoal </card>
+    <card qty="6" id="72d9c054-aef5-4955-b647-32b0afdf3dbf">Dragontroop </card>
+  </section>
+  <section name="Items (Summoning Pool)" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

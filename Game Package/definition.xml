@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+   name="Dragon Dice (SFR)" 
+   id="0000ac4a-0bf6-4c10-8f05-e32e53e57518" 
+   octgnVersion="3.1.2.0" 
+   version="1.2.1.0"
+   scriptVersion="3.1.0.2"
+   markersize="20"
+   setsurl="http://www.dragondice.com"
+   gameurl="http://www.dragondice.com"
+   authors="Tom Alsteen"
+   description="Dragon Dice® is strategy game where players create mythical armies using dice to represent each troop. The game combines strategy and skill as well as a little luck. Each person tries to win the game by outmaneuvering the opponent and capture 2 terrains. Of course eliminating your opponent completely is another acceptable way of winning. Special Thanks to Kathy Lenth."
+   tags="Dragon Dice"
+   iconurl="https://sfr-inc.com/ocart3/image/cache/catalog/dragon-dice-starter-500x500.png">
+	<scripts>
+		<script src="scripts/basics.py" />
+		<script src="scripts/setup.py" />
+		<script src="scripts/terrain.py" />
+		<script src="scripts/variables.py" />
+		<script src="scripts/generics.py" />
+		<script src="scripts/spells.py" />
+		<script src="scripts/species.py" />
+		<script src="scripts/temp.py" />
+	</scripts>
+	<events>
+		<event name="OnGameStarted" action="set_scatter_list"/>
+		<event name="OnDeckLoaded" action="head_count"/>
+	</events>
+	<proxygen definitionsrc="proxy/proxydef.xml"/>
+	<!-- <documents> -->
+         <!--document name="Rules" icon="documents/rulesicon.png" src="documents/quickref.pdf" /-->
+	<!-- </documents> -->
+	<globalvariables>
+		<globalvariable name="player_counter" value="0" />
+		<globalvariable name="frontier_counter" value="0" />
+		
+		<globalvariable name="scatter_on" value="0" />
+		<globalvariable name="turn_order" value="0" />
+		
+		<globalvariable name="p1_home" value="0" />
+		<globalvariable name="p2_home" value="0" />
+		<globalvariable name="p3_home" value="0" />
+		<globalvariable name="p4_home" value="0" />
+		
+		<globalvariable name="p1_frontier" value="0" />
+		<globalvariable name="p2_frontier" value="0" />
+		<globalvariable name="p3_frontier" value="0" />
+		<globalvariable name="p4_frontier" value="0" />
+		
+		<globalvariable name="p1_horde" value="0" />
+		<globalvariable name="p2_horde" value="0" />
+		<globalvariable name="p3_horde" value="0" />
+		<globalvariable name="p4_horde" value="0" />
+
+		
+		<globalvariable name="frontier_terrain" value="0" />
+		
+	</globalvariables>
+	<card back="images/display.png" front="images/dice.png" width="50" height="50" cornerRadius="5" backCornerRadius="5">
+		<property name="Species" type="String" />
+		<property name="Class" type="String" />
+		<property name="Element" type="String" />
+		<property name="Size" type="String" />
+		
+		<property name="Type" type="String" />				
+		<property name="Subtype" type="String" />
+		<property name="Eighth Face" type="String" />
+		
+		<property name="Action" type="String" hidden="True"/>
+		<property name="Saves" type="String" hidden="True"/>
+		<property name="Icons" type="String"/>
+		
+		<property name="Reserve" type="String" hidden="True"/>
+		<property name="Cantrip" type="String" hidden="True"/>
+		<property name="Cost" type="String" hidden="True"/>
+		<property name="Color" type="String" hidden="True"/>
+		<property name="Search" type="String" hidden="True"/>
+		<property name="Weight" type="String" hidden="True"/>
+		<property name="Autosaves" type="Integer" hidden="True"/>
+		
+		<size name="Monster" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Rare" width="70" height="70" back="images/dice.png" front="images/dice.png" backWidth="70" backHeight="70" />
+		<size name="Uncommon" width="60" height="60" back="images/dice.png" front="images/dice.png" backWidth="60" backHeight="60" />
+		<size name="Common" width="50" height="50" back="images/dice.png" front="images/dice.png" backWidth="50" backHeight="50" />
+		<size name="Artifact" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Small" width="50" height="50" back="images/dice.png" front="images/dice.png" backWidth="50" backHeight="50" />
+		<size name="Medium" width="60" height="60" back="images/dice.png" front="images/dice.png" backWidth="60" backHeight="60" />
+		<size name="Large" width="70" height="70" back="images/dice.png" front="images/dice.png" backWidth="70" backHeight="70" />
+		<size name="Medallion" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Relic" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Champion" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Dragon" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Terrain" width="75" height="75" back="images/dice.png" front="images/dice.png" backWidth="75" backHeight="75" />
+		<size name="Minor Terrain" width="50" height="50" back="images/dice.png" front="images/dice.png" backWidth="50" backHeight="50" />
+		<size name="Spell Card" width="99" height="135" back="images/dice.png" front="images/dice.png" backWidth="99" backHeight="135" />
+    </card>
+	<gameboards src="images/board.jpg" x="-750" y="-580" width="1500" height="1160" />
+	<table name="Table" visibility="undefined" ordered="False" width="1500" height="1160" background="images/table.jpg" backgroundStyle="uniform" >
+
+		<cardaction menu="Roll Die" default="True" batchExecute="roll_dice"/>
+		<cardaction menu="Reset Die to ID" default="False" execute="reset_die"/>
+		<!-- <cardaction menu="Check Position" default="False" execute="check_coord"/> -->
+
+		<cardseparator/>
+
+		<cardactions menu="Send Die to...">
+			<cardaction menu="Remove" default="False" execute="delete_card" shortcut="Del" />
+			<cardaction menu="Send to Home" default="False" execute="send_to_home"/>
+			<cardaction menu="Send to Campaign" default="False" execute="send_to_campaign"/>
+			<cardaction menu="Send to Horde" default="False" execute="send_to_horde"/>
+			<cardaction menu="Send to Reserves" default="False" execute="send_to_reserves"/>
+			<cardaction menu="Send to Summoning Pool" default="False" execute="send_to_summoning"/>
+			<cardaction menu="Send to DUA" default="False" execute="send_to_dua"/>
+			<cardaction menu="Send to BUA" default="False" execute="send_to_bua"/>
+		</cardactions>
+
+		<cardseparator/>
+
+		<cardaction menu="Advance Terrain" default="False" shortcut="Up" execute="terrain_up" showIf="terrain_check" />
+		<cardaction menu="Lower Terrain" default="False" shortcut="Down" execute="terrain_down" showIf="terrain_check" />
+
+		<cardseparator/>
+
+		<cardaction menu="Duplicate Spell Card" default="False" execute="duplicate_spell" showIf="is_spell" />
+		<cardaction menu="Remove Spell Card" default="False" execute="delete_card" showIf="is_spell" shortcut="Del" />
+		
+		<cardseparator />
+		
+		<cardaction menu="Set My Home Terrain" default="False" execute="set_home" showIf="terrain_check"/>
+		<cardaction menu="Set My Frontier Terrain" default="False" execute="set_frontier" showIf="terrain_check"/>
+		
+<!-- Group Action List Goes Here -->
+		<groupaction menu="Roll for Melee" default="False" execute="melee_roll" showIf="terrain_check_melee" />
+		<groupaction menu="Roll for Missile" default="False" execute="missile_roll" showIf="terrain_check_missile" />
+		<groupaction menu="Roll for Magic" default="False" execute="magic_roll" showIf="terrain_check_magic" />
+			
+		<groupactions menu="Roll This Army...">
+			<groupaction menu="Roll for Melee" default="False" execute="melee_roll"/>
+			<groupaction menu="Roll for Missile" default="False" execute="missile_roll"/>
+			<groupaction menu="Roll for Magic" default="False" execute="magic_roll"/>
+			<groupaction menu="Roll for Maneuvers" default="False" execute="maneuver_roll"/>
+			<groupaction menu="Roll for Saves" default="False" execute="save_roll"/>
+		</groupactions>
+		
+
+		<groupseparator />
+
+		<!-- <groupactions menu="Reset Armies"> -->
+			<groupaction menu="Reset This Army" default="False" execute="reset_location"/>
+		<!-- </groupactions> -->
+
+		<groupseparator />
+		<groupactions menu="Calculate This Army...">
+			<groupaction menu="Calculate Melee" default="False" execute="melee_calc"/>
+			<groupaction menu="Calculate Missile" default="False" execute="missile_calc"/>
+			<groupaction menu="Calculate Magic" default="False" execute="magic_calc"/>
+			<groupaction menu="Calculate Maneuvers" default="False" execute="maneuver_calc"/>
+			<groupaction menu="Calculate Saves" default="False" execute="save_calc"/>
+		</groupactions>
+		<groupseparator />
+		<groupactions menu="Dice Scattering">
+			<groupaction menu="Enable Dice Scattering" default="False" execute="scatter_on"/>
+			<groupaction menu="Disable Dice Scattering" default="False" execute="scatter_off"/>
+		</groupactions>
+		<groupseparator />
+		<groupactions menu="Create Dice">
+			<groupaction menu="Amazons" default="False" execute="create_amazons"/>
+			<groupaction menu="Coral Elves" default="False" execute="create_coral"/>
+			<groupaction menu="Dwarves" default="False" execute="create_dwarves"/>
+			<groupaction menu="Eldarim" default="False" execute="create_eldarim"/>
+			<groupaction menu="Feral" default="False" execute="create_feral"/>
+			<groupaction menu="Fire Walkers" default="False" execute="create_firewalkers"/>
+			<groupaction menu="Frostwings" default="False" execute="create_frostwings"/>
+			<groupaction menu="Lava Elves" default="False" execute="create_lava"/>
+			<groupaction menu="Scalders" default="False" execute="create_scalders"/>
+			<groupaction menu="Swamp Stalkers" default="False" execute="create_swampstalkers"/>
+			<groupaction menu="Treefolk" default="False" execute="create_treefolk"/>
+			<groupaction menu="Undead" default="False" execute="create_undead"/>
+			<groupseparator />
+			<groupaction menu="Terrain" default="False" execute="create_terrain"/>
+			<groupaction menu="Items" default="False" execute="create_item"/>
+			<groupaction menu="Dracolem" default="False" execute="create_dracolem"/>
+			<groupaction menu="Dragonkin" default="False" execute="create_dragonkin"/>
+			<groupaction menu="Dragons" default="False" execute="create_dragon"/>
+		</groupactions>
+    
+	</table>
+
+	<player summary="H: {#Hand}">
+		<counter name="Black Magic" default="0" icon="images/black.png" />
+		<counter name="Blue Magic" default="0" icon="images/blue.png" />
+		<counter name="Green Magic" default="0" icon="images/green.png" />
+		<counter name="Red Magic" default="0" icon="images/red.png" />
+		<counter name="Yellow Magic" default="0" icon="images/yellow.png" />
+		<counter name="Bronze Magic" default="0" icon="images/bronze.png" />
+		<counter name="Silver Magic" default="0" icon="images/silver.png" />
+		<counter name="Gold Magic" default="0" icon="images/gold.png" />
+		<group name="Hand" visibility="me" ordered="False" icon="images/gear.png" viewState="expanded" />
+		<group name="Home Army" visibility="me" ordered="False" icon="images/gear.png" viewState="collapsed" />
+		<group name="Campaign Army" visibility="me" ordered="False" icon="images/gear.png" viewState="collapsed" />
+		<group name="Horde Army" visibility="me" ordered="False" icon="images/gear.png" viewState="collapsed" />
+		<group name="Summoning Pool" visibility="me" ordered="False" icon="images/gear.png" viewState="collapsed" />
+	</player>
+	<deck>
+		<section name="Home Terrain" group="Home Army"/>
+		<section name="Home Army" group="Home Army"/>
+		<section name="Frontier Terrain" group="Campaign Army"/>
+		<section name="Campaign Army" group="Campaign Army"/>
+		<section name="Horde Army" group="Horde Army"/>
+		<section name="Dragons" group="Summoning Pool"/>
+		<section name="Minor Terrain" group="Summoning Pool"/>
+		<section name="Dragonkin" group="Summoning Pool"/>
+		<section name="Items (Summoning Pool)" group="Summoning Pool"/>
+	</deck>
+</game>

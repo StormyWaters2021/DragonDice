@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="8139f119-b655-415a-acbe-c93b4a1c829c">Flatland City</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="1" id="32daf460-25a2-4a19-9468-d45dc25f3c49">Weasel-folk</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="92149556-5e40-4574-ac4c-fc21046ad731">Flatland Grove</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="4" id="32daf460-25a2-4a19-9468-d45dc25f3c49">Weasel-folk</card>
+    <card qty="2" id="8e41f077-6db6-4b46-a6a7-7d8a2ed92089">Badger-folk</card>
+    <card qty="3" id="c97e9988-c228-4522-93d0-8562ddebc6bd">Wolverine-folk</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="2" id="e5a496a4-da27-4625-9389-71bd137430cc">Antelope-folk</card>
+    <card qty="2" id="77506285-a9fb-4672-a144-6c5c05cc1d04">Horse-folk</card>
+    <card qty="4" id="48e14f65-a778-4044-80ec-0d437b839170">Buffalo-folk</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="2" id="094afa48-a442-49fb-a04f-9d2949d799a6">Blue Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="1" id="6febf209-3def-4986-8e98-9ace15cfef69">Wasteland Bridge</card>
+    <card qty="1" id="a11bcaa3-209a-429f-9263-12b342961db5">Flatland Woods</card>
+    <card qty="1" id="9f3615a5-80e7-4b34-99d6-0306c1d90d14">Flatland Village</card>
+    <card qty="1" id="9b29bf7e-0907-474f-8bf6-a72c50fda73e">Flatland Bridge</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="3" id="36ec45ce-0598-48a9-99f7-79f000a165c2">Dragonfoal </card>
+    <card qty="1" id="3996ca7b-7291-4e2f-9e71-d549974c2c14">Dragonmount </card>
+    <card qty="1" id="48f79f49-d0f0-454d-be3a-5474d9ce1900">Dragonsteed </card>
+    <card qty="1" id="4ef697e9-72ef-415e-ad56-fb4b8eb0f46d">Dragonstallion</card>
+  </section>
+  <section name="Items (Summoning Pool)" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

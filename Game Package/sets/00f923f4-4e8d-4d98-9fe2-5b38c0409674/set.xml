@@ -1,0 +1,2285 @@
+<set
+    name="Terrain"
+    id="00f923f4-4e8d-4d98-9fe2-5b38c0409674"
+    gameId="0000ac4a-0bf6-4c10-8f05-e32e53e57518"
+    version="1.0.0.0"
+    gameVersion="1.0.0.0">
+	
+<packaging>
+
+	<pack name="Basic Terrains" id="ba2e68d0-e236-4514-83dd-2303537c7bc4">
+		<pick qty="1" key="Element" value="Blue (Air), Green (Water)" >
+			<property key="Subtype" value="Standard" />
+		</pick>
+		<pick qty="1" key="Element" value="Blue (Air), Red (Fire)" >
+			<property key="Subtype" value="Standard" />
+		</pick>
+		<pick qty="1" key="Element" value="Blue (Air), Yellow (Earth)" >
+			<property key="Subtype" value="Standard" />
+		</pick>
+		<pick qty="1" key="Element" value="Green (Water), Red (Fire)" >
+			<property key="Subtype" value="Standard" />
+		</pick>
+		<pick qty="1" key="Element" value="Green (Water), Yellow (Earth)" >
+			<property key="Subtype" value="Standard" />
+		</pick>
+		<pick qty="1" key="Element" value="Red (Fire), Yellow (Earth)" >
+			<property key="Subtype" value="Standard" />
+		</pick>
+	</pack>
+	
+	<pack name="Advanced Terrains" id="ba56d364-66d1-42c1-9cf1-221a3aaefe67">
+		<pick qty="1" key="Element" value="Blue (Air), Green (Water)" >
+			<property key="Subtype" value="Special" />
+		</pick>
+		<pick qty="1" key="Element" value="Blue (Air), Red (Fire)" >
+			<property key="Subtype" value="Special" />
+		</pick>
+		<pick qty="1" key="Element" value="Blue (Air), Yellow (Earth)" >
+			<property key="Subtype" value="Special" />
+		</pick>
+		<pick qty="1" key="Element" value="Green (Water), Red (Fire)" >
+			<property key="Subtype" value="Special" />
+		</pick>
+		<pick qty="1" key="Element" value="Green (Water), Yellow (Earth)" >
+			<property key="Subtype" value="Special" />
+		</pick>
+		<pick qty="1" key="Element" value="Red (Fire), Yellow (Earth)" >
+			<property key="Subtype" value="Special" />
+		</pick>
+	</pack>
+	
+	<pack name="Minor Terrains" id="bb5f80c0-054f-47ed-96ed-38e9397e5e28">
+		<pick qty="1" key="Element" value="Blue (Air), Green (Water)" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+		<pick qty="1" key="Element" value="Blue (Air), Red (Fire)" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+		<pick qty="1" key="Element" value="Blue (Air), Yellow (Earth)" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+		<pick qty="1" key="Element" value="Green (Water), Red (Fire)" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+		<pick qty="1" key="Element" value="Green (Water), Yellow (Earth)" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+		<pick qty="1" key="Element" value="Red (Fire), Yellow (Earth)" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+		<pick qty="1" key="Element" value="Black (Death), Ivory" >
+			<property key="Subtype" value="Minor" />
+		</pick>
+	</pack>
+
+</packaging>
+
+<cards>
+<card id="01458266-4d5e-4103-92c8-d0993e975a18" name="Deadland Bridge" size="Minor Terrain">
+<property name="Element" value="Black (Death), Ivory"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Deadland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="01d222bf-12f2-417e-916a-c30696d05abf" name="Deadland Knoll" size="Minor Terrain">
+<property name="Element" value="Black (Death), Ivory"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Deadland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="06d63007-7887-44fa-acde-2077fd69ebb8" name="Deadland Village" size="Minor Terrain">
+<property name="Element" value="Black (Death), Ivory"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Deadland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="077751d6-e88a-4d7d-840f-336e05d033b5" name="Deadland Woods" size="Minor Terrain">
+<property name="Element" value="Black (Death), Ivory"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Deadland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="08ee6105-c56c-426d-ab86-3135abc7bee3" name="Coastland City" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="City"/>
+<property name="Icons" value="8 City"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland City" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland City" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Coastland City" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Coastland City" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Coastland City" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland City" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland City" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="15bedfd6-dbc0-4812-8d9b-9acc618724c8" name="Coastland Standing Stone" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Standing Stones"/>
+<property name="Icons" value="8 Standing Stones"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Standing Stone" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="1c9d630f-bf45-4849-a0a9-5cffea14ae93" name="Coastland Temple" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Temple"/>
+<property name="Icons" value="8 Temple"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Temple" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="231b354a-8a08-40f2-a76a-0fc54e0b4d49" name="Coastland Tower" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Tower"/>
+<property name="Icons" value="8 Tower"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Tower" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="232600aa-62b5-4c86-ade3-eee5fc99425e" name="Coastland Castle" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Castle"/>
+<property name="Icons" value="8 Castle"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Castle" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="2735f7fc-01b7-4cdc-a7f9-46e14b3b287d" name="Coastland Dragons Lair" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Dragons Lair"/>
+<property name="Icons" value="8 Dragons Lair"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Dragons Lair" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="2bd4712b-cb0e-405e-a279-201dc2b58c01" name="Coastland Grove" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Grove"/>
+<property name="Icons" value="8 Grove"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Grove" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="2d48b672-d55e-4a3f-9721-55f8270af6d7" name="Coastland Vortex" size="Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Vortex"/>
+<property name="Icons" value="8 Vortex"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Vortex" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="358b51a1-36ec-4a26-8adb-055610008dd0" name="Coastland Bridge" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="366dcfc6-3b38-4c00-bfdd-7d6e4eed3e64" name="Coastland Knoll" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="3f66ee7c-1d3d-4456-b2c7-395f8b58ba4b" name="Coastland Village" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="40cde43f-8895-4a93-9992-78e5295f33dc" name="Coastland Woods" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Green (Water)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Coastland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="42a21a70-2afc-4e03-95dc-41e37118797d" name="Wasteland City" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="City"/>
+<property name="Icons" value="8 City"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland City" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland City" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland City" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland City" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland City" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland City" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland City" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="4596bac4-7e93-4f25-bad5-e01a636f4458" name="Wasteland Standing Stones" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Standing Stones"/>
+<property name="Icons" value="8 Standing Stones"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Standing Stones" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="46dc6d7c-af96-40b0-9b33-d2f3e1469bed" name="Wasteland Temple" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Temple"/>
+<property name="Icons" value="8 Temple"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Temple" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="52aae2fc-1ea9-4edd-bdfc-87fe4d167558" name="Wasteland Tower" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Tower"/>
+<property name="Icons" value="8 Tower"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Tower" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="5432db72-c720-4a38-87c8-3856c4f19dee" name="Wasteland Castle" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Castle"/>
+<property name="Icons" value="8 Castle"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Castle" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="58902001-ab26-48e6-8855-a3c19fd1f0f6" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Dragons Lair"/>
+<property name="Icons" value="8 Dragons Lair"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Dragons Lair" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="60be0275-3b20-429d-b5b6-ebe56b8a16cd" name="Wasteland Grove" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Grove"/>
+<property name="Icons" value="8 Grove"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Grove" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="63ea9c4d-b43d-4c45-afe2-9259baef3566" name="Wasteland Vortex" size="Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Vortex"/>
+<property name="Icons" value="8 Vortex"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Vortex" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="6febf209-3def-4986-8e98-9ace15cfef69" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="73f5efa9-82fe-45ef-b664-9baaf0c8b6d6" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="791d0457-9cfd-4c78-a9e7-29e8b9311c04" name="Wasteland Village" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="811e35ba-ecca-4728-b9af-d85f1731bea3" name="Wasteland Woods" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Wasteland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="8139f119-b655-415a-acbe-c93b4a1c829c" name="Flatland City" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="City"/>
+<property name="Icons" value="8 City"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland City" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland City" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Flatland City" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Flatland City" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Flatland City" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland City" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland City" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="8391f7e1-c2c1-45ea-963e-cb475a2686f3" name="Flatland Standing Stone" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Standing Stones"/>
+<property name="Icons" value="8 Standing Stones"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Standing Stone" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="852d47ac-f95d-4a4d-bd5b-36b7c14f0f71" name="Flatland Temple" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Temple"/>
+<property name="Icons" value="8 Temple"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Temple" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="85af44d1-6ec1-4e46-a6c7-5338db940bf4" name="Flatland Tower" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Tower"/>
+<property name="Icons" value="8 Tower"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Tower" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="8d1beed8-cc3b-45ce-bee0-ad6d48ed0e50" name="Flatland Castle" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Castle"/>
+<property name="Icons" value="8 Castle"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Castle" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="915fdeb2-cd3b-401d-a1e5-e55305822a9f" name="Flatland Dragons Lair" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Dragons Lair"/>
+<property name="Icons" value="8 Dragons Lair"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Dragons Lair" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="92149556-5e40-4574-ac4c-fc21046ad731" name="Flatland Grove" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Grove"/>
+<property name="Icons" value="8 Grove"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Grove" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="94675dd9-7bce-492b-8980-6ee8341dddeb" name="Flatland Vortex" size="Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Vortex"/>
+<property name="Icons" value="8 Vortex"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Vortex" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="9b29bf7e-0907-474f-8bf6-a72c50fda73e" name="Flatland Bridge" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="9cb66712-63f1-4738-8f6e-49e7242f8fac" name="Flatland Knoll" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="9f3615a5-80e7-4b34-99d6-0306c1d90d14" name="Flatland Village" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="a11bcaa3-209a-429f-9263-12b342961db5" name="Flatland Woods" size="Minor Terrain">
+<property name="Element" value="Blue (Air), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Flatland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="a249bdad-2265-4a34-82cb-79a0bdb3f53c" name="Feyland City" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="City"/>
+<property name="Icons" value="8 City"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland City" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland City" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland City" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Feyland City" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Feyland City" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland City" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland City" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="a403c3ba-ecb8-4cda-95f5-41e4c36a9d68" name="Feyland Standing Stone" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Standing Stones"/>
+<property name="Icons" value="8 Standing Stones"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Standing Stone" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="a4d32e48-ad94-4f90-8fa1-a91103f6b21e" name="Feyland Temple" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Temple"/>
+<property name="Icons" value="8 Temple"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Temple" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="a6fd5602-2407-47a6-83c0-d4b9e72f86c3" name="Feyland Tower" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Tower"/>
+<property name="Icons" value="8 Tower"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Tower" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="a7394f17-d572-46bd-9132-229fcaaafca0" name="Feyland Castle" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Castle"/>
+<property name="Icons" value="8 Castle"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Castle" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="a8c6f4d4-2fcb-4e9d-b7c4-579b7515d601" name="Feyland Dragons Lair" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Dragons Lair"/>
+<property name="Icons" value="8 Dragons Lair"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Dragons Lair" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="b158d8d8-00a8-4781-b506-07fb09a4d138" name="Feyland Grove" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Grove"/>
+<property name="Icons" value="8 Grove"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Grove" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="b2672917-5ccb-4929-ab61-2927adc86487" name="Feyland Vortex" size="Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Vortex"/>
+<property name="Icons" value="8 Vortex"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Vortex" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="b43058c6-8d36-4a14-86fc-17c51ae47011" name="Feyland Bridge" size="Minor Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="b5384ba7-ef8a-485a-881d-4c09c86c88b6" name="Feyland Knoll" size="Minor Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="bc322b2c-52e9-446a-a0f8-fcc4386247f7" name="Feyland Village" size="Minor Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="bd42d117-ff40-4317-8ddd-98227e102f99" name="Feyland Woods" size="Minor Terrain">
+<property name="Element" value="Green (Water), Red (Fire)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Feyland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="c338dfd2-3609-4a7c-972a-7a8c444a9c2f" name="Swampland City" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="City"/>
+<property name="Icons" value="8 City"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland City" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland City" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland City" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Swampland City" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Swampland City" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland City" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland City" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="c3902a48-1ce3-4166-aef2-0a1b352dd5cf" name="Swampland Standing Stones" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Standing Stones"/>
+<property name="Icons" value="8 Standing Stones"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Standing Stones" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="c84b1dfd-1860-42c9-9eee-25ca21264b37" name="Swampland Temple" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Temple"/>
+<property name="Icons" value="8 Temple"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Temple" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="c8861ee3-65b3-4447-88b0-12b17db769e1" name="Swampland Tower" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Tower"/>
+<property name="Icons" value="8 Tower"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Tower" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="ccc2582e-6a6e-454d-9b16-3011075bc8cb" name="Swampland Castle" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Castle"/>
+<property name="Icons" value="8 Castle"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Castle" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="d53b644f-3684-4bbe-a97c-e5e033a7b1d4" name="Swampland Dragons Lair" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Dragons Lair"/>
+<property name="Icons" value="8 Dragons Lair"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Dragons Lair" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="d5fd2d52-008a-42a7-b471-562883a659ee" name="Swampland Grove" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Grove"/>
+<property name="Icons" value="8 Grove"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Grove" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="d9610696-d4a1-4360-b3c7-c4e11911bd18" name="Swampland Vortex" size="Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Vortex"/>
+<property name="Icons" value="8 Vortex"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Vortex" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="d9dfdc8a-40cd-4ba7-8e5b-9124cbdf0c8a" name="Swampland Bridge" size="Minor Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="daeb674c-b1a6-4146-a73b-0f6504559e9f" name="Swampland Knoll" size="Minor Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="dd7dda8f-01ef-4d59-b2da-3fa284074732" name="Swampland Village" size="Minor Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="ddaa2f9d-300a-40a4-91e0-f7b3d3e6641d" name="Swampland Woods" size="Minor Terrain">
+<property name="Element" value="Green (Water), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Swampland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="e1fe5fba-78b6-4916-a252-a0b77643c1c4" name="Highland City" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="City"/>
+<property name="Icons" value="8 City"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland City" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland City" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland City" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Highland City" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Highland City" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland City" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland City" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="e248483f-3eb3-4e7c-a474-c96a6f2714e7" name="Highland Standing Stones" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Standing Stones"/>
+<property name="Icons" value="8 Standing Stones"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Standing Stones" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="e3f5986b-55e9-4c09-b48b-816f8e8648e3" name="Highland Temple" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Temple"/>
+<property name="Icons" value="8 Temple"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Temple" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Temple" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland Temple" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Highland Temple" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Highland Temple" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland Temple" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Temple" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="e8b6d184-2bc6-4319-9bea-fbbbc754e804" name="Highland Tower" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Standard"/>
+<property name="Eighth Face" value="Tower"/>
+<property name="Icons" value="8 Tower"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Tower" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Tower" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland Tower" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Highland Tower" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Highland Tower" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland Tower" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Tower" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="e95351ea-7564-4019-99e5-ea6901f0aac3" name="Highland Castle" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Castle"/>
+<property name="Icons" value="8 Castle"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Castle" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Castle" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland Castle" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Highland Castle" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Highland Castle" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Highland Castle" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Castle" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="eed4d8a6-bece-4616-a240-c04cbe7b6ee7" name="Highland Dragons Lair" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Dragons Lair"/>
+<property name="Icons" value="8 Dragons Lair"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt3" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="5 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Dragons Lair" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="f002c32b-3aa5-4c7c-9ca5-0d3931bc15a6" name="Highland Grove" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Grove"/>
+<property name="Icons" value="8 Grove"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Grove" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Grove" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland Grove" size="Terrain">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Highland Grove" size="Terrain">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Highland Grove" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland Grove" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Grove" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="f45736f0-a1a1-4b95-bc9b-ab5fa5b9f3d7" name="Highland Vortex" size="Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Major Terrain"/>
+<property name="Subtype" value="Special"/>
+<property name="Eighth Face" value="Vortex"/>
+<property name="Icons" value="8 Vortex"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt3" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="5 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="6 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Vortex" size="Terrain">
+<property name="Icons" value="7 Melee"/>
+</alternate>
+</card>
+<card id="f4c267ea-af4e-43ca-94fd-a00194630c52" name="Highland Bridge" size="Minor Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Bridge"/>
+<property name="Icons" value="1 Bridge"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Flood"/>
+</alternate>
+<alternate type="Alt2" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt3" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Highland Bridge" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="f59c0cf8-b4d9-4859-9db0-7e033feb9575" name="Highland Knoll" size="Minor Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Knoll"/>
+<property name="Icons" value="1 Knoll"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Dust Storm"/>
+</alternate>
+<alternate type="Alt2" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt6" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt7" name="Highland Knoll" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+<card id="fb56e35b-4a21-49c2-8324-4c709aa8dee2" name="Highland Village" size="Minor Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Village"/>
+<property name="Icons" value="1 Village"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Revolt"/>
+</alternate>
+<alternate type="Alt2" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt6" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt7" name="Highland Village" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+</card>
+<card id="fba35d06-46a4-4e32-afec-d5c515036359" name="Highland Woods" size="Minor Terrain">
+<property name="Element" value="Red (Fire), Yellow (Earth)"/>
+<property name="Type" value="Minor Terrain"/>
+<property name="Subtype" value="Minor"/>
+<property name="Eighth Face" value="Woods"/>
+<property name="Icons" value="1 Woods"/>
+<property name="Search" value="Terrain"/> 
+<alternate type="Alt1" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Flanked"/>
+</alternate>
+<alternate type="Alt2" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt3" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Maneuvers"/>
+</alternate>
+<alternate type="Alt4" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Double Saves"/>
+</alternate>
+<alternate type="Alt6" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt7" name="Highland Woods" size="Minor Terrain">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+</card>
+
+</cards>
+</set>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="8139f119-b655-415a-acbe-c93b4a1c829c">Flatland City</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="7" id="742fea9d-5b46-4679-ba60-17327dc7d453">Thug</card>
+    <card qty="3" id="0837686b-e33d-4d6b-ba52-076832b78417">Cutthroat</card>
+    <card qty="1" id="0ff6ae91-ef58-499c-b8ad-05a23d91bf08">Shambler</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="915fdeb2-cd3b-401d-a1e5-e55305822a9f">Flatland Dragons Lair</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="1" id="742fea9d-5b46-4679-ba60-17327dc7d453">Thug</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="3" id="ddb140ef-eb89-480d-8b56-006616265478">Wardog Rider</card>
+    <card qty="3" id="11586a71-5f65-439f-8a18-0a0cb10217da">Wolf Rider</card>
+    <card qty="3" id="9a00b9d3-e968-4380-8d3a-29cb7952f333">Leopard Rider</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="2" id="245f0bf5-c420-4681-8fb7-d9eacf71dd2a">Yellow Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="2" id="06d63007-7887-44fa-acde-2077fd69ebb8">Deadland Village</card>
+    <card qty="1" id="dd7dda8f-01ef-4d59-b2da-3fa284074732">Swampland Village</card>
+    <card qty="1" id="9f3615a5-80e7-4b34-99d6-0306c1d90d14">Flatland Village</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="6" id="8c95d63f-8cf3-4fda-9edb-70e9a1a7eebb">Dragonfoal </card>
+    <card qty="6" id="0e986a14-6d9f-458b-9882-efc0b7119638">Dragontroop </card>
+  </section>
+  <section name="Items (Summoning Pool)" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

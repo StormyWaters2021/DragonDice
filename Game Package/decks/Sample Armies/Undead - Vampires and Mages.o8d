@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="4596bac4-7e93-4f25-bad5-e01a636f4458">Wasteland Standing Stones</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="3" id="f4f7407d-8acd-44bd-9b34-0b4d74313b4c">Vampire</card>
+    <card qty="2" id="01247b70-c980-4e1f-a275-cc9d363a32b5">Zombie</card>
+    <card qty="3" id="0ec14fd7-86d1-437b-a243-96323bc4ac63">Wight</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="5432db72-c720-4a38-87c8-3856c4f19dee">Wasteland Castle</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="2" id="a15ed5df-c777-4e6d-acc0-c96c72b3df21">Heucuva</card>
+    <card qty="5" id="138f4103-1207-4549-8e10-675ffe5ed943">Apparition</card>
+    <card qty="3" id="77ad48f3-41c0-42b0-bba2-e885bcabde7e">Lich</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="1" id="01247b70-c980-4e1f-a275-cc9d363a32b5">Zombie</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="1" id="2e6596ff-0656-4e7b-9877-139f3cd7d29a">Black Wyrm</card>
+    <card qty="1" id="06a61f8c-7c0e-4174-b05e-96e455e1598a">Black Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="2" id="06d63007-7887-44fa-acde-2077fd69ebb8">Deadland Village</card>
+    <card qty="2" id="077751d6-e88a-4d7d-840f-336e05d033b5">Deadland Woods</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="3" id="8c95d63f-8cf3-4fda-9edb-70e9a1a7eebb">Dragonfoal </card>
+    <card qty="1" id="03e98dfb-cea9-4db0-8a69-a85e4ace8e0c">Dragonstallion</card>
+    <card qty="1" id="03742e7a-8f72-4d04-bedb-7f217235557d">Dragonsteed </card>
+    <card qty="1" id="015a6c98-4f2a-409f-a10e-8214e3ee5a22">Dragonmount </card>
+  </section>
+  <section name="Items (Summoning Pool)" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

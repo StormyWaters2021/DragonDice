@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="c338dfd2-3609-4a7c-972a-7a8c444a9c2f">Swampland City</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="3" id="6952e1d2-e1b1-4cc3-b446-8df3c637f338">Striker</card>
+    <card qty="2" id="044505cd-6c09-4dcc-b055-c43337ed170e">Raider</card>
+    <card qty="2" id="a086cfde-9f79-42c3-bc63-2fe328a67862">Invader</card>
+    <card qty="1" id="af81e8f3-4064-42af-a48f-aea46cfd0d70">Swamp Giant</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="d53b644f-3684-4bbe-a97c-e5e033a7b1d4">Swampland Dragons Lair</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="1" id="6952e1d2-e1b1-4cc3-b446-8df3c637f338">Striker</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="6" id="87d46ff2-616e-410a-af91-5160e0b620ef">Bog Runner</card>
+    <card qty="6" id="59ef88fd-8481-4c2b-99fe-04a6108c8d10">Marsh Swimmer</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="2" id="06a61f8c-7c0e-4174-b05e-96e455e1598a">Black Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="1" id="b43058c6-8d36-4a14-86fc-17c51ae47011">Feyland Bridge</card>
+    <card qty="1" id="01458266-4d5e-4103-92c8-d0993e975a18">Deadland Bridge</card>
+    <card qty="2" id="d9dfdc8a-40cd-4ba7-8e5b-9124cbdf0c8a">Swampland Bridge</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="12" id="72d9c054-aef5-4955-b647-32b0afdf3dbf">Dragontroop </card>
+  </section>
+  <section name="Items (Summoning Pool)" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

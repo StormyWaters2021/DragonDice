@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0000ac4a-0bf6-4c10-8f05-e32e53e57518">
+  <section name="Home Terrain" shared="False">
+    <card qty="1" id="42a21a70-2afc-4e03-95dc-41e37118797d">Wasteland City</card>
+  </section>
+  <section name="Home Army" shared="False">
+    <card qty="1" id="01cbcf95-bf8f-4de2-9620-5538de081875">Seer</card>
+  </section>
+  <section name="Frontier Terrain" shared="False">
+    <card qty="1" id="60be0275-3b20-429d-b5b6-ebe56b8a16cd">Wasteland Grove</card>
+  </section>
+  <section name="Campaign Army" shared="False">
+    <card qty="5" id="01cbcf95-bf8f-4de2-9620-5538de081875">Seer</card>
+    <card qty="6" id="f0e84828-7c17-4b93-8eb9-20735613623e">Visionary</card>
+  </section>
+  <section name="Horde Army" shared="False">
+    <card qty="2" id="859dec9d-6bde-407f-b7a9-c389abbf8e16">Charioteer</card>
+    <card qty="2" id="f93e7173-531f-45e3-8b9f-314ffb297618">Battle Rider</card>
+    <card qty="4" id="966e5490-f856-4b70-8d30-cfb1970bbe00">War Driver</card>
+  </section>
+  <section name="Dragons" shared="False">
+    <card qty="1" id="e291227a-9388-49fc-adb0-3c9b10dfc344">White Drake</card>
+  </section>
+  <section name="Minor Terrain" shared="False">
+    <card qty="1" id="f4c267ea-af4e-43ca-94fd-a00194630c52">Highland Bridge</card>
+    <card qty="1" id="077751d6-e88a-4d7d-840f-336e05d033b5">Deadland Woods</card>
+    <card qty="1" id="9f3615a5-80e7-4b34-99d6-0306c1d90d14">Flatland Village</card>
+    <card qty="1" id="fb56e35b-4a21-49c2-8324-4c709aa8dee2">Highland Village</card>
+  </section>
+  <section name="Dragonkin" shared="False">
+    <card qty="6" id="93f280dc-269f-413d-b1b6-bcf640509b99">Dragonfoal </card>
+    <card qty="6" id="36ec45ce-0598-48a9-99f7-79f000a165c2">Dragonfoal </card>
+  </section>
+  <section name="Items (Summoning Pool)" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

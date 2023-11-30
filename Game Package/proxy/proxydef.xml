@@ -1,0 +1,7555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<blocks>
+	
+<!-- UNIT ICONS -->
+		<block type="overlay"  id="melee1" src="proxy/icons/melee1.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="melee2" src="proxy/icons/melee2.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="melee3" src="proxy/icons/melee3.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="melee4" src="proxy/icons/melee4.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="melee5" src="proxy/icons/melee5.png">
+			<location x="20"  y="10" />
+		</block>
+		
+		<block type="overlay"  id="maneuver1" src="proxy/icons/maneuver1.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="maneuver2" src="proxy/icons/maneuver2.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="maneuver3" src="proxy/icons/maneuver3.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="maneuver4" src="proxy/icons/maneuver4.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="maneuver5" src="proxy/icons/maneuver5.png">
+			<location x="20"  y="10" />
+		</block>
+		
+		<block type="overlay"  id="missile1" src="proxy/icons/missile1.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="missile2" src="proxy/icons/missile2.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="missile3" src="proxy/icons/missile3.png">
+			<location x="20"  y="10" />
+		</block>	
+		<block type="overlay"  id="missile4" src="proxy/icons/missile4.png">
+			<location x="20"  y="10" />
+		</block>		
+		<block type="overlay"  id="missile5" src="proxy/icons/missile5.png">
+			<location x="20"  y="10" />
+		</block>
+		
+		<block type="overlay"  id="magic1" src="proxy/icons/magic1.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="magic2" src="proxy/icons/magic2.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="magic3" src="proxy/icons/magic3.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="magic4" src="proxy/icons/magic4.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="magic5" src="proxy/icons/magic5.png">
+			<location x="20"  y="10" />
+		</block>
+		
+		<block type="overlay"  id="save1" src="proxy/icons/save1.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="save2" src="proxy/icons/save2.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="save3" src="proxy/icons/save3.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="save4" src="proxy/icons/save4.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="save5" src="proxy/icons/save5.png">
+			<location x="20"  y="10" />
+		</block>
+	
+		<block type="overlay"  id="id1" src="proxy/icons/id1.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="id2" src="proxy/icons/id2.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="id3" src="proxy/icons/id3.png">
+			<location x="20"  y="10" />
+		</block>
+		<block type="overlay"  id="id4" src="proxy/icons/id4.png">
+			<location x="20"  y="10" />
+		</block>
+
+<!-- MONSTER ICONS -->
+		<block type="overlay"  id="meleemonster" src="proxy/icons/melee4.png">
+			<location x="125"  y="200" />
+		</block>
+		<block type="overlay"  id="missilemonster" src="proxy/icons/missile4.png">
+			<location x="125"  y="200" />
+		</block>
+		<block type="overlay"  id="magicmonster" src="proxy/icons/magic4.png">
+			<location x="125"  y="200" />
+		</block>
+		<block type="overlay"  id="maneuvermonster" src="proxy/icons/maneuver4.png">
+			<location x="125"  y="200" />
+		</block>
+		<block type="overlay"  id="savemonster" src="proxy/icons/save4.png">
+			<location x="125"  y="200" />
+		</block>
+		<block type="overlay"  id="idmonster" src="proxy/icons/id4.png">
+			<location x="125"  y="200" />
+		</block>
+
+<!-- ITEM ICONS -->
+		<block type="overlay"  id="itemmelee1" src="proxy/icons/melee1.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmelee2" src="proxy/icons/melee2.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmelee3" src="proxy/icons/melee3.png">
+			<location x="15"  y="240" />
+		</block>
+		
+		<block type="overlay"  id="itemmaneuver1" src="proxy/icons/maneuver1.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmaneuver2" src="proxy/icons/maneuver2.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmaneuver3" src="proxy/icons/maneuver3.png">
+			<location x="15"  y="240" />
+		</block>
+		
+		<block type="overlay"  id="itemmissile1" src="proxy/icons/missile1.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmissile2" src="proxy/icons/missile2.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmissile3" src="proxy/icons/missile3.png">
+			<location x="15"  y="240" />
+		</block>
+		
+		<block type="overlay"  id="itemmagic1" src="proxy/icons/magic1.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmagic2" src="proxy/icons/magic2.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemmagic3" src="proxy/icons/magic3.png">
+			<location x="15"  y="240" />
+		</block>
+		
+		<block type="overlay"  id="itemsave1" src="proxy/icons/save1.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemsave2" src="proxy/icons/save2.png">
+			<location x="15"  y="240" />
+		</block>
+		<block type="overlay"  id="itemsave3" src="proxy/icons/save3.png">
+			<location x="15"  y="240" />
+		</block>
+		
+<!-- TERRAIN ICONS -->
+		<block type="overlay"  id="terrainmelee1" src="proxy/icons/melee1.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmelee3" src="proxy/icons/melee3.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmelee4" src="proxy/icons/melee4.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmelee5" src="proxy/icons/melee5.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmelee6" src="proxy/icons/melee6.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmelee7" src="proxy/icons/melee7.png">
+			<location x="110"  y="125" />
+		</block>
+		
+		<block type="overlay"  id="terrainmissile1" src="proxy/icons/missile1.png">
+			<location x="110"  y="125" />
+		</block>		
+		<block type="overlay"  id="terrainmissile2" src="proxy/icons/missile2.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmissile3" src="proxy/icons/missile3.png">
+			<location x="110"  y="125" />
+		</block>	
+		<block type="overlay"  id="terrainmissile4" src="proxy/icons/missile4.png">
+			<location x="110"  y="125" />
+		</block>		
+		<block type="overlay"  id="terrainmissile5" src="proxy/icons/missile5.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmissile6" src="proxy/icons/missile6.png">
+			<location x="110"  y="125" />
+		</block>
+		
+		<block type="overlay"  id="terrainmagic1" src="proxy/icons/magic1.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmagic2" src="proxy/icons/magic2.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmagic3" src="proxy/icons/magic3.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmagic4" src="proxy/icons/magic4.png">
+			<location x="110"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainmagic5" src="proxy/icons/magic5.png">
+			<location x="110"  y="125" />
+		</block>
+		
+		<block type="overlay"  id="terrainstones" src="proxy/icons/stones.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terraincity" src="proxy/icons/city.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terraintemple" src="proxy/icons/temple.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terraintower" src="proxy/icons/tower.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terraincastle" src="proxy/icons/castle.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terraindragon" src="proxy/icons/dragon.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terraingrove" src="proxy/icons/grove.png">
+			<location x="115"  y="125" />
+		</block>
+		<block type="overlay"  id="terrainvortex" src="proxy/icons/vortex.png">
+			<location x="115"  y="125" />
+		</block>
+		
+<!-- TEXT BLOCKS -->	
+		<block type="text"  id="iconsmonster" >
+			<location x="150"  y="200" />
+			<text color="#000000" size="100" />
+			<wordwrap height="200" width="200" shrinktofit="True" align="center" valign="center" />
+		</block>
+		<block type="text"  id="iconsterrain" >
+			<location x="100"  y="125" />
+			<text color="#000000" size="100" />
+			<wordwrap height="250" width="250" shrinktofit="True" align="center" valign="center" />
+		</block>
+		<block type="text"  id="iconsunit" >
+			<location x="0"  y="0" />
+			<text color="#000000" size="60" />
+			<wordwrap height="250" width="250" shrinktofit="True" align="center" valign="center" />
+		</block>
+		<block type="text"  id="iconsdragon" >
+			<location x="150"  y="150" />
+			<text color="#000000" size="100" />
+			<wordwrap height="200" width="200" shrinktofit="True" align="center" valign="center" />
+		</block>
+		<block type="text"  id="iconsitem" >
+			<location x="15"  y="250" />
+			<text color="#000000" size="100" />
+			<wordwrap height="200" width="225" shrinktofit="True" align="center" valign="center" />
+		</block>
+		<block type="text"  id="blank" >
+			<location x="150"  y="200" />
+			<text color="#000000" size="1" />
+		</block>
+		
+	</blocks>
+
+
+<!-- UNIT TEMPLATES	 -->
+	<template src="proxy/dice/monsters/dwarvesmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Dwarves" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/dwarves.png">
+		
+		<matches>
+			<match name="Species"  value="Dwarves" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/monsters/amazonmonster.png" default="True">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Amazons" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/amazon.png">
+		
+		<matches>
+			<match name="Species"  value="Amazons" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/monsters/coralmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Coral Elves" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/coral.png">
+		
+		<matches>
+			<match name="Species"  value="Coral Elves" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/dice/monsters/feralmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Feral" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/feral.png">
+		
+		<matches>
+			<match name="Species"  value="Feral" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/monsters/firewalkermonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Fire Walkers" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/firewalker.png">
+		
+		<matches>
+			<match name="Species"  value="Fire Walkers" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/monsters/frostmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Frostwings" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/frost.png">
+		
+		<matches>
+			<match name="Species"  value="Frostwings" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/monsters/goblinmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Goblins" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/goblins.png">
+		
+		<matches>
+			<match name="Species"  value="Goblins" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/dice/monsters/lavamonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Lava Elves" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/lava.png">
+		
+		<matches>
+			<match name="Species"  value="Lava Elves" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+	
+	<template src="proxy/dice/monsters/scaldersmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Scalders" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/scalders.png">
+		
+		<matches>
+			<match name="Species"  value="Scalders" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/monsters/swampstalkersmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Swamp Stalkers" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/swampstalkers.png">
+		
+		<matches>
+			<match name="Species"  value="Swamp Stalkers" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/monsters/treefolkmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species"  value="Treefolk" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/treefolk.png">
+		
+		<matches>
+			<match name="Species"  value="Treefolk" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/monsters/undeadmonster.png">
+		
+		<matches>
+			<match name="Class" value="Monster" />
+			<match name="Species" value="Undead" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/units/undead.png">
+		
+		<matches>
+			<match name="Species" value="Undead" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+
+<!-- ELDARIM TEMPLATES -->
+	<template src="proxy/dice/eldarim/eldwhite.png">
+		
+		<matches>
+			<match name="Species" value="Eldarim" />
+			<match name="Element" value="White" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/eldarim/eldred.png">
+		
+		<matches>
+			<match name="Species" value="Eldarim" />
+			<match name="Element" value="Red (Fire)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/eldarim/eldgreen.png">
+		
+		<matches>
+			<match name="Species" value="Eldarim" />
+			<match name="Element" value="Green (Water)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/eldarim/eldblack.png">
+		
+		<matches>
+			<match name="Species" value="Eldarim" />
+			<match name="Element" value="Black (Death)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/eldarim/eldyellow.png">
+		
+		<matches>
+			<match name="Species" value="Eldarim" />
+			<match name="Element" value="Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/eldarim/eldblue.png">
+		
+		<matches>
+			<match name="Species" value="Eldarim" />
+			<match name="Element" value="Blue (Air)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+
+<!-- DRAGONKIN TEMPLATES -->
+	<template src="proxy/dice/dragonkin/dkred.png">
+		
+		<matches>
+			<match name="Species" value="Dragonkin" />
+			<match name="Element" value="Red (Fire)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/dragonkin/dkgreen.png">
+		
+		<matches>
+			<match name="Species" value="Dragonkin" />
+			<match name="Element" value="Green (Water)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/dragonkin/dkblack.png">
+		
+		<matches>
+			<match name="Species" value="Dragonkin" />
+			<match name="Element" value="Black (Death)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/dragonkin/dkyellow.png">
+		
+		<matches>
+			<match name="Species" value="Dragonkin" />
+			<match name="Element" value="Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/dragonkin/dkblue.png">
+		
+		<matches>
+			<match name="Species" value="Dragonkin" />
+			<match name="Element" value="Blue (Air)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+
+<!-- DRACOLEM TEMPLATES -->
+	<template src="proxy/dice/dracolem/gold.png">
+		
+		<matches>
+			<match name="Species" value="Dracolem" />
+			<match name="Element" value="Gold" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/dracolem/silver.png">
+		
+		<matches>
+			<match name="Species" value="Dracolem" />
+			<match name="Element" value="Silver" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/dracolem/bronze.png">
+		
+		<matches>
+			<match name="Species" value="Dracolem" />
+			<match name="Element" value="Bronze" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 ID">
+						<link block="id1" />
+					</case>
+					<case value="2 ID">
+						<link block="id2" />
+					</case>
+					<case value="3 ID">
+						<link block="id3" />
+					</case>
+					<case value="4 ID">
+						<link block="id4" />
+					</case>
+					
+					<case value="1 Melee">
+						<link block="melee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="melee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="melee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="melee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="melee5" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="missile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="missile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="missile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="missile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="missile5" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="magic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="magic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="magic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="magic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="magic5" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="maneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="maneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="maneuver3" />
+					</case>
+					<case value="4 Maneuver">
+						<link block="maneuver4" />
+					</case>
+					<case value="5 Maneuver">
+						<link block="maneuver5" />
+					</case>
+
+					<case value="1 Save">
+						<link block="save1" />
+					</case>
+					<case value="2 Save">
+						<link block="save2" />
+					</case>
+					<case value="3 Save">
+						<link block="save3" />
+					</case>
+					<case value="4 Save">
+						<link block="save4" />
+					</case>
+					<case value="5 Save">
+						<link block="save5" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsunit">
+					<property name="Icons" />
+					</link>
+				</else>	
+
+			</conditional>
+		</textblocks>
+	</template>
+	
+	
+<!-- TERRAIN TEMPLATES	 -->
+	<template src="proxy/dice/terrain/coastland.png">
+	
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Blue (Air), Green (Water)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+	
+	<template src="proxy/dice/terrain/flatland.png">
+		
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Blue (Air), Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+	
+	<template src="proxy/dice/terrain/feyland.png">
+	
+		
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Green (Water), Red (Fire)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+	
+	<template src="proxy/dice/terrain/highland.png">
+	
+		
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Red (Fire), Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/terrain/swampland.png">
+	
+		
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Green (Water), Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/terrain/wasteland.png">
+	
+		
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Blue (Air), Red (Fire)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/terrain/deadland.png">
+			
+		<matches>
+			<match name="Search" value="Terrain" />
+			<match name="Element" value="Black (Death), Ivory" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+
+					<case value="1 Melee">
+						<link block="terrainmelee1" />
+					</case>					
+					<case value="3 Melee">
+						<link block="terrainmelee3" />
+					</case>
+					<case value="4 Melee">
+						<link block="terrainmelee4" />
+					</case>
+					<case value="5 Melee">
+						<link block="terrainmelee5" />
+					</case>
+					<case value="6 Melee">
+						<link block="terrainmelee6" />
+					</case>
+					<case value="7 Melee">
+						<link block="terrainmelee7" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="terrainmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="terrainmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="terrainmissile3" />
+					</case>
+					<case value="4 Missile">
+						<link block="terrainmissile4" />
+					</case>
+					<case value="5 Missile">
+						<link block="terrainmissile5" />
+					</case>
+					<case value="6 Missile">
+						<link block="terrainmissile6" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="terrainmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="terrainmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="terrainmagic3" />
+					</case>
+					<case value="4 Magic">
+						<link block="terrainmagic4" />
+					</case>
+					<case value="5 Magic">
+						<link block="terrainmagic5" />
+					</case>
+
+					<case value="8 Standing Stones">
+						<link block="terrainstones" />
+					</case>					
+					<case value="8 City">
+						<link block="terraincity" />
+					</case>					
+					<case value="8 Tower">
+						<link block="terraintower" />
+					</case>					
+					<case value="8 Temple">
+						<link block="terraintemple" />
+					</case>					
+					<case value="8 Dragons Lair">
+						<link block="terraindragon" />
+					</case>					
+					<case value="8 Vortex">
+						<link block="terrainvortex" />
+					</case>					
+					<case value="8 Castle">
+						<link block="terraincastle" />
+					</case>					
+					<case value="8 Grove">
+						<link block="terraingrove" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="City">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Stones">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>		
+				<elseif property="Icons" contains="Temple">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Tower">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Vortex">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Castle">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Dragons Lair">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>	
+				<elseif property="Icons" contains="Grove">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<else>
+					<link block="iconsterrain">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+
+<!-- DRAGON TEMPLATES -->
+	<template src="proxy/dice/dragons/red.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Red (Fire)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/dragons/blue.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Blue (Air)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/yellow.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Yellow (Earth)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/green.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Green (Water)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/black.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Black (Death)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/white.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="White" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/ivory.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Ivory" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/dragons/blackivory.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Black (Death), Ivory" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/dragons/blueivory.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Blue (Air), Ivory" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/yellowivory.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Yellow (Earth), Ivory" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/redivory.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Red (Fire), Ivory" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/greenivory.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Green (Water), Ivory" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/tree.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Green (Water), Yellow (Earth)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/fire.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Blue (Air), Red (Fire)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/coral.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Blue (Air), Green (Water)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+
+	<template src="proxy/dice/dragons/dwarf.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Red (Fire), Yellow (Earth)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/gob.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Black (Death), Yellow (Earth)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/feral.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Blue (Air), Yellow (Earth)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/swamp.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Black (Death), Green (Water)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/lava.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Black (Death), Red (Fire)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/frost.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Black (Death), Blue (Air)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+	<template src="proxy/dice/dragons/scald.png">
+		
+		<matches>
+			<match name="CardSizeName" value="Dragon" />
+			<match name="Element" value="Green (Water), Red (Fire)" />
+		</matches>
+
+		<textblocks>
+			<link block="iconsdragon">
+				<property name="Icons" />
+			</link>
+		</textblocks>
+	</template>	
+	
+
+<!-- RELIC TEMPLATE -->
+	<template src="proxy/dice/items/relic.png">
+		
+		<matches>
+			<match name="Type" value="Relic" />
+		</matches>
+
+		<textblocks>
+
+			<link block="iconsunit">
+			<property name="Icons" />
+			</link>
+
+		</textblocks>
+	</template>
+
+
+<!-- MEDALLION TEMPLATES -->
+	<template src="proxy/dice/items/gold.png">
+		
+		<matches>
+			<match name="Type" value="Medallion" />
+			<match name="Element" value="Gold" />
+		</matches>
+		
+		<textblocks>
+			<link block="iconsitem">
+			<property name="Icons" />
+			</link>
+
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/items/silver.png">
+		
+		<matches>
+			<match name="Type" value="Medallion" />
+			<match name="Element" value="Silver" />
+		</matches>
+		
+		<textblocks>
+			<link block="iconsitem">
+			<property name="Icons" />
+			</link>
+
+		</textblocks>
+	</template>
+
+	<template src="proxy/dice/items/bronze.png">
+		
+		<matches>
+			<match name="Type" value="Medallion" />
+			<match name="Element" value="Bronze" />
+		</matches>
+		
+		<textblocks>
+			<link block="iconsitem">
+			<property name="Icons" />
+			</link>
+
+		</textblocks>
+	</template>
+
+
+<!-- ITEM TEMPLATES -->
+	<template src="proxy/dice/items/blue.png">
+		
+		<matches>
+			<match name="Type" value="Item" />
+			<match name="Element" value="Blue (Air)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 Melee">
+						<link block="itemmelee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="itemmelee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="itemmelee3" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="itemmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="itemmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="itemmissile3" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="itemmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="itemmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="itemmagic3" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="itemmaneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="itemmaneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="itemmaneuver3" />
+					</case>
+
+					<case value="1 Save">
+						<link block="itemsave1" />
+					</case>
+					<case value="2 Save">
+						<link block="itemsave2" />
+					</case>
+					<case value="3 Save">
+						<link block="itemsave3" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<else>
+					<link block="iconsitem">
+					<property name="Icons" />
+					</link>
+				</else>
+				
+			</conditional>	
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/black.png">
+		
+		<matches>
+			<match name="Type" value="Item" />
+			<match name="Element" value="Black (Death)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 Melee">
+						<link block="itemmelee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="itemmelee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="itemmelee3" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="itemmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="itemmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="itemmissile3" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="itemmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="itemmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="itemmagic3" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="itemmaneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="itemmaneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="itemmaneuver3" />
+					</case>
+
+					<case value="1 Save">
+						<link block="itemsave1" />
+					</case>
+					<case value="2 Save">
+						<link block="itemsave2" />
+					</case>
+					<case value="3 Save">
+						<link block="itemsave3" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<else>
+					<link block="iconsitem">
+					<property name="Icons" />
+					</link>
+				</else>
+				
+			</conditional>	
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/red.png">
+		
+		<matches>
+			<match name="Type" value="Item" />
+			<match name="Element" value="Red (Fire)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 Melee">
+						<link block="itemmelee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="itemmelee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="itemmelee3" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="itemmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="itemmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="itemmissile3" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="itemmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="itemmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="itemmagic3" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="itemmaneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="itemmaneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="itemmaneuver3" />
+					</case>
+
+					<case value="1 Save">
+						<link block="itemsave1" />
+					</case>
+					<case value="2 Save">
+						<link block="itemsave2" />
+					</case>
+					<case value="3 Save">
+						<link block="itemsave3" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<else>
+					<link block="iconsitem">
+					<property name="Icons" />
+					</link>
+				</else>
+				
+			</conditional>	
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/yellow.png">
+		
+		<matches>
+			<match name="Type" value="Item" />
+			<match name="Element" value="Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 Melee">
+						<link block="itemmelee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="itemmelee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="itemmelee3" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="itemmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="itemmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="itemmissile3" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="itemmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="itemmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="itemmagic3" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="itemmaneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="itemmaneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="itemmaneuver3" />
+					</case>
+
+					<case value="1 Save">
+						<link block="itemsave1" />
+					</case>
+					<case value="2 Save">
+						<link block="itemsave2" />
+					</case>
+					<case value="3 Save">
+						<link block="itemsave3" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<else>
+					<link block="iconsitem">
+					<property name="Icons" />
+					</link>
+				</else>
+				
+			</conditional>	
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/green.png">
+		
+		<matches>
+			<match name="Type" value="Item" />
+			<match name="Element" value="Green (Water)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="1 Melee">
+						<link block="itemmelee1" />
+					</case>
+					<case value="2 Melee">
+						<link block="itemmelee2" />
+					</case>
+					<case value="3 Melee">
+						<link block="itemmelee3" />
+					</case>
+
+					<case value="1 Missile">
+						<link block="itemmissile1" />
+					</case>
+					<case value="2 Missile">
+						<link block="itemmissile2" />
+					</case>
+					<case value="3 Missile">
+						<link block="itemmissile3" />
+					</case>
+
+					<case value="1 Magic">
+						<link block="itemmagic1" />
+					</case>
+					<case value="2 Magic">
+						<link block="itemmagic2" />
+					</case>
+					<case value="3 Magic">
+						<link block="itemmagic3" />
+					</case>
+
+					<case value="1 Maneuver">
+						<link block="itemmaneuver1" />
+					</case>
+					<case value="2 Maneuver">
+						<link block="itemmaneuver2" />
+					</case>
+					<case value="3 Maneuver">
+						<link block="itemmaneuver3" />
+					</case>
+
+					<case value="1 Save">
+						<link block="itemsave1" />
+					</case>
+					<case value="2 Save">
+						<link block="itemsave2" />
+					</case>
+					<case value="3 Save">
+						<link block="itemsave3" />
+					</case>
+					
+				</switch>
+			</conditional>
+		</overlayblocks>
+		
+		
+		<textblocks>
+			<conditional>
+
+				<if property="Icons" contains="Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>					
+				<elseif property="Icons" contains="Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" contains="Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<else>
+					<link block="iconsitem">
+					<property name="Icons" />
+					</link>
+				</else>
+				
+			</conditional>	
+		</textblocks>
+		
+	</template>
+
+
+<!-- ARTIFACT TEMPLATES -->
+	<template src="proxy/dice/items/blackart.png">
+		
+		<matches>
+			<match name="Type" value="Artifact" />
+			<match name="Element"  value="Black (Death)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/blueart.png">
+		
+		<matches>
+			<match name="Type" value="Artifact" />
+			<match name="Element"  value="Blue (Air)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/redart.png">
+		
+		<matches>
+			<match name="Type" value="Artifact" />
+			<match name="Element"  value="Red (Fire)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/greenart.png">
+		
+		<matches>
+			<match name="Type" value="Artifact" />
+			<match name="Element"  value="Green (Water)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+	<template src="proxy/dice/items/yellowart.png">
+		
+		<matches>
+			<match name="Type" value="Artifact" />
+			<match name="Element"  value="Yellow (Earth)" />
+		</matches>
+		
+		<overlayblocks>
+			<conditional>
+				
+				<switch property="Icons">
+					
+					<case value="4 ID">
+						<link block="idmonster" />
+					</case>
+					
+					<case value="4 Melee">
+						<link block="meleemonster" />
+					</case>
+
+					<case value="4 Missile">
+						<link block="missilemonster" />
+					</case>
+
+					<case value="4 Magic">
+						<link block="magicmonster" />
+					</case>
+					
+					<case value="4 Maneuver">
+						<link block="maneuvermonster" />
+					</case>
+
+					<case value="4 Save">
+						<link block="savemonster" />
+					</case>
+
+				</switch>
+				
+			</conditional>
+			
+		</overlayblocks>
+		
+		<textblocks>
+			<conditional>
+				<if property="Icons" value="4 ID">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</if>
+				<elseif property="Icons" value="4 Melee">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>					
+				<elseif property="Icons" value="4 Missile">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Magic">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Maneuver">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>
+				<elseif property="Icons" value="4 Save">
+					<link block="blank">
+					<property name="Icons" />
+					</link>
+				</elseif>			
+				<else>
+					<link block="iconsmonster">
+					<property name="Icons" />
+					</link>
+				</else>	
+			</conditional>
+		</textblocks>
+		
+	</template>
+
+</templates>
+
+

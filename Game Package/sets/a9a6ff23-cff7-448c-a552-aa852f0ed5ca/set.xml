@@ -1,0 +1,1544 @@
+<set
+    name="Dracolem"
+    id="a9a6ff23-cff7-448c-a552-aa852f0ed5ca"
+    gameId="0000ac4a-0bf6-4c10-8f05-e32e53e57518"
+    version="1.0.0.0"
+    gameVersion="1.0.0.0">
+	
+<packaging>
+
+	<pack name="Bronze Dracolem Kicker" id="b5b29dd1-e1d3-4c25-ac3c-8339132f69df">
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Medium" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Medium" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Large" >
+			<property key="Element" value="Bronze" />
+		</pick>
+		<pick qty="1" key="Size" value="Champion" >
+			<property key="Element" value="Bronze" />
+		</pick>
+	</pack>
+
+	<pack name="Silver Dracolem Kicker" id="b5c122f6-4818-410f-bf11-8225872a8662">
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Medium" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Medium" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Large" >
+			<property key="Element" value="Silver" />
+		</pick>
+		<pick qty="1" key="Size" value="Champion" >
+			<property key="Element" value="Silver" />
+		</pick>
+	</pack>
+	
+	<pack name="Gold Dracolem Kicker" id="b62ede9b-4569-43c0-bea4-0927fbc57c58">
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Small" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Medium" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Medium" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Large" >
+			<property key="Element" value="Gold" />
+		</pick>
+		<pick qty="1" key="Size" value="Champion" >
+			<property key="Element" value="Gold" />
+		</pick>
+	</pack>
+
+</packaging>
+	
+<cards>
+<card id="8b1c9180-b57c-456e-9493-1bf759f2e7f0" name="Bronze Beast Dracolem" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Bronze Beast Dracolem" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Beast Dracolem" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Beast Dracolem" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Beast Dracolem" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Beast Dracolem" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="8d5019f6-5834-4377-9751-a79c91554ac1" name="Bronze Draco-Brawler" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Brawler" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Brawler" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Brawler" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Brawler" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Brawler" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="8fb1f81a-400c-4921-918b-cd90505245c7" name="Bronze Draco-Shielder" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Shielder" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Shielder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Shielder" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Shielder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Shielder" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="90ae7935-5269-4250-abc3-a26c757897a7" name="Bronze Draco-Mystic" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Mystic" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Mystic" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Mystic" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Mystic" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Mystic" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="91ea4c42-e64f-4405-bc39-74e26a80d016" name="Bronze Draco-Hailer" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Hailer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Hailer" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Hailer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Hailer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Hailer" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="8c3dba6f-3c20-4938-97bc-1d0ba29c65f4" name="Bronze Saddled Dracolem" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Bronze Saddled Dracolem" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Saddled Dracolem" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="8e27db5a-7f21-456f-a03c-1e58ebe18d76" name="Bronze Draco-Tank" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Tank" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Tank" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Tank" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Tank" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Tank" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="8feea79a-7fe3-42c1-92b6-7b85696de3ce" name="Bronze Draco-Guard" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Guard" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Guard" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Guard" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Guard" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Guard" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="91100e5b-2a34-4f51-8771-94b3ce3375ed" name="Bronze Draco-Adeptus" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Adeptus" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Adeptus" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="92e6c64f-4bd0-40b8-91ee-9e61cc26f3a8" name="Bronze Draco-Hurler" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Hurler" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Hurler" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="8d00f021-d52e-4afd-b35e-c9fc0d5b9b54" name="Bronze Barded Dracolem" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Bronze Barded Dracolem" size="Large">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Barded Dracolem" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Barded Dracolem" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Barded Dracolem" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Barded Dracolem" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="8e8e065f-0d1e-4a9c-a0e9-8261fbe782e8" name="Bronze Draco-Lord" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Lord" size="Large">
+<property name="Icons" value="4 Double Strike"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Lord" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Lord" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Lord" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Lord" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="903fabce-2001-461c-aeca-a68432186221" name="Bronze Draco-Rogue" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Rogue" size="Large">
+<property name="Icons" value="4 Stun"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Rogue" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Rogue" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Rogue" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Rogue" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="91515031-5fbc-4850-90bc-d377e8a7dccc" name="Bronze Draco-Magus" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Magus" size="Large">
+<property name="Icons" value="4 Magic Suppression"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Magus" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Magus" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Magus" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Magus" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="92f9fa69-3178-4e56-ae8a-19dcf6bf0940" name="Bronze Draco-Gunner" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Gunner" size="Large">
+<property name="Icons" value="4 Impale"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Gunner" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Gunner" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Gunner" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Gunner" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="8d1da572-ecf0-4f22-92bf-45fbcdb11540" name="Bronze Armored Dracolem" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Bronze Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="8ef2bda0-d3a2-4cd4-8986-7a4e7349a492" name="Bronze Draco-Champion" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Champion" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Champion" size="Champion">
+<property name="Icons" value="4 Double Strike"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Champion" size="Champion">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Champion" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Champion" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="93895177-be60-4f02-b687-2bf7cbdff33c" name="Bronze Promo Champion" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Bronze Promo Champion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Promo Champion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Promo Champion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Promo Champion" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Promo Champion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="903fada8-c670-41d3-ba59-8b5a8521565e" name="Bronze Draco-Zealot" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Roar"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Stun"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="91dbefc9-4040-4c53-9772-831fdfc9c6ea" name="Bronze Draco-Baal" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Baal" size="Champion">
+<property name="Icons" value="4 Spell Disruption"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Baal" size="Champion">
+<property name="Icons" value="4 Magic Suppression"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Baal" size="Champion">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Baal" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Baal" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="93007859-b91a-462f-801e-fbef101dec21" name="Bronze Draco-Mortus" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Bronze"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Bronze Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Flaming Arrow"/>
+</alternate>
+<alternate type="Alt2" name="Bronze Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Impale"/>
+</alternate>
+<alternate type="Alt3" name="Bronze Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Bronze Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Bronze Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="9a5594df-68f6-4128-9223-ab09f1d1a6c7" name="Silver Draco-Hailer" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Silver Draco-Hailer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Hailer" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Hailer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Hailer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Hailer" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="995dca11-aa69-4a42-af0a-4fe067feff27" name="Silver Draco-Mystic" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Silver Draco-Mystic" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Mystic" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Mystic" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Mystic" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Mystic" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="987ca37f-2738-4f6b-bb79-9845ccac6301" name="Silver Draco-Shielder" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Silver Draco-Shielder" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Shielder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Shielder" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Shielder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Shielder" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="953bd85f-15ea-494e-9839-0be9cc0bd975" name="Silver Draco-Brawler" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Silver Draco-Brawler" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Brawler" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Brawler" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Brawler" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Brawler" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="94860f4f-2a77-4faf-9d22-fa82e890520d" name="Silver Beast Dracolem" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Silver Beast Dracolem" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Silver Beast Dracolem" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Silver Beast Dracolem" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Silver Beast Dracolem" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Silver Beast Dracolem" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="9ad2057e-97c3-4c05-893c-3aefa3700d89" name="Silver Draco-Hurler" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Silver Draco-Hurler" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Hurler" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="99b234f4-5ee2-44a5-8584-012b3501d926" name="Silver Draco-Adeptus" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Silver Draco-Adeptus" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Adeptus" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="988b6fd0-abcb-4aa0-88ab-d64097ddb369" name="Silver Draco-Guard" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Silver Draco-Guard" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Guard" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Guard" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Guard" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Guard" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="955cf087-9496-4e9a-87e7-80bd928ac05d" name="Silver Draco-Tank" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Silver Draco-Tank" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Tank" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Tank" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Tank" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Tank" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="949cc7ee-bc03-499d-8f1f-190b1e57cb5b" name="Silver Saddled Dracolem" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Silver Saddled Dracolem" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Silver Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Silver Saddled Dracolem" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Silver Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Silver Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="9af85810-ce2e-43c7-b304-e51f50aaba0c" name="Silver Draco-Gunner" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Silver Draco-Gunner" size="Large">
+<property name="Icons" value="4 Impale"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Gunner" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Gunner" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Gunner" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Gunner" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="9a081c8a-7636-4d20-800c-62825edb1315" name="Silver Draco-Magus" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Silver Draco-Magus" size="Large">
+<property name="Icons" value="4 Magic Suppression"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Magus" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Magus" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Magus" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Magus" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="98a27c59-7619-45dc-b85f-53e0333b37e0" name="Silver Draco-Rogue" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Silver Draco-Rogue" size="Large">
+<property name="Icons" value="4 Stun"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Rogue" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Rogue" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Rogue" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Rogue" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="96215d6b-07b8-4b3d-83c3-1fc38ba400c5" name="Silver Draco-Lord" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Silver Draco-Lord" size="Large">
+<property name="Icons" value="4 Double Strike"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Lord" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Lord" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Lord" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Lord" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="951c2bc5-fa2e-4f8f-975d-5408e66cad4e" name="Silver Barded Dracolem" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Silver Barded Dracolem" size="Large">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt2" name="Silver Barded Dracolem" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Silver Barded Dracolem" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Silver Barded Dracolem" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Silver Barded Dracolem" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="9b30d13b-1bb0-4329-ba57-6b84305ff98d" name="Silver Draco-Mortus" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Silver Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Flaming Arrow"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Impale"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="9a4e8aff-3206-451f-be17-3cafe3828e61" name="Silver Draco-Baal" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Silver Draco-Baal" size="Champion">
+<property name="Icons" value="4 Spell Disruption"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Baal" size="Champion">
+<property name="Icons" value="4 Magic Suppression"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Baal" size="Champion">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Baal" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Baal" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="991e58a8-cd54-41ff-a5a3-8fb3c763af5d" name="Silver Draco-Zealot" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Silver Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Roar"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Stun"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="96b35b15-e7b2-44b2-87b2-06ae4bad8379" name="Silver Draco-Champion" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Silver Draco-Champion" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt2" name="Silver Draco-Champion" size="Champion">
+<property name="Icons" value="4 Double Strike"/>
+</alternate>
+<alternate type="Alt3" name="Silver Draco-Champion" size="Champion">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Silver Draco-Champion" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Silver Draco-Champion" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="9b866261-a3eb-46be-a3bf-a1e82f6df777" name="Silver Promo Champion" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Silver Promo Champion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Silver Promo Champion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Silver Promo Champion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Silver Promo Champion" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Silver Promo Champion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="9538be59-8431-4130-89ab-606a23de3e97" name="Silver Armored Dracolem" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Silver"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Silver Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt2" name="Silver Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Silver Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Silver Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Silver Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="9baed515-1e10-494b-b17c-40de240ea63f" name="Gold Beast Dracolem" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Gold Beast Dracolem" size="Small">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Gold Beast Dracolem" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Gold Beast Dracolem" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Gold Beast Dracolem" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Gold Beast Dracolem" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="9ead5cd2-b6c3-4db8-9784-0724b24ab295" name="Gold Draco-Brawler" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Gold Draco-Brawler" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Brawler" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Brawler" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Brawler" size="Small">
+<property name="Icons" value="1 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Brawler" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="9faa35b6-5f5e-45a4-91d2-4403126282f0" name="Gold Draco-Shielder" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Gold Draco-Shielder" size="Small">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Shielder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Shielder" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Shielder" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Shielder" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="a200c34a-cb6b-4e72-bb03-3dd129c7027a" name="Gold Draco-Mystic" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Gold Draco-Mystic" size="Small">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Mystic" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Mystic" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Mystic" size="Small">
+<property name="Icons" value="1 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Mystic" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="a5227a64-d192-4f05-bbef-8b359142c6b5" name="Gold Draco-Hailer" size="Small">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Small"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="1 ID"/>
+<alternate type="Alt1" name="Gold Draco-Hailer" size="Small">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Hailer" size="Small">
+<property name="Icons" value="1 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Hailer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Hailer" size="Small">
+<property name="Icons" value="1 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Hailer" size="Small">
+<property name="Icons" value="1 Fabricate"/>
+</alternate>
+</card>
+<card id="9e1917d0-c6a8-4480-8343-77602bfb443a" name="Gold Saddled Dracolem" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Gold Saddled Dracolem" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt2" name="Gold Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Gold Saddled Dracolem" size="Medium">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Gold Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Gold Saddled Dracolem" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="9f218066-0321-47ec-8ecc-f846e6b619f2" name="Gold Draco-Tank" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Gold Draco-Tank" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Tank" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Tank" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Tank" size="Medium">
+<property name="Icons" value="2 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Tank" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="9fc5ba0e-4211-4a17-8a07-6be734775734" name="Gold Draco-Guard" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Gold Draco-Guard" size="Medium">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Guard" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Guard" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Guard" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Guard" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="a23754df-37e5-4ca7-95fc-453c07bd3ea8" name="Gold Draco-Adeptus" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Gold Draco-Adeptus" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Adeptus" size="Medium">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Adeptus" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="a60ba896-8b0f-454c-afcd-54fde7ceecdc" name="Gold Draco-Hurler" size="Medium">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Medium"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="2 ID"/>
+<alternate type="Alt1" name="Gold Draco-Hurler" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Hurler" size="Medium">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Hurler" size="Medium">
+<property name="Icons" value="2 Fabricate"/>
+</alternate>
+</card>
+<card id="9e6eb239-aed3-4de5-8a44-1d90f35d1b6e" name="Gold Barded Dracolem" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Gold Barded Dracolem" size="Large">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt2" name="Gold Barded Dracolem" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt3" name="Gold Barded Dracolem" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Gold Barded Dracolem" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt5" name="Gold Barded Dracolem" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="9f8875a8-e06e-42f2-9479-d5f933ceb5da" name="Gold Draco-Lord" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Gold Draco-Lord" size="Large">
+<property name="Icons" value="4 Double Strike"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Lord" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Lord" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Lord" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Lord" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="9fd5ad6c-e7eb-46a8-b50b-76fc0da5ae10" name="Gold Draco-Rogue" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Gold Draco-Rogue" size="Large">
+<property name="Icons" value="4 Stun"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Rogue" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Rogue" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Rogue" size="Large">
+<property name="Icons" value="3 Melee"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Rogue" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="a327ff84-7e22-4fc7-96fe-c8d53610cae8" name="Gold Draco-Magus" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Gold Draco-Magus" size="Large">
+<property name="Icons" value="4 Magic Suppression"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Magus" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Magus" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Magus" size="Large">
+<property name="Icons" value="3 Magic"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Magus" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="a6bf8ae7-b134-48d3-8fde-dd5939c2d8ca" name="Gold Draco-Gunner" size="Large">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Large"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="3 ID"/>
+<alternate type="Alt1" name="Gold Draco-Gunner" size="Large">
+<property name="Icons" value="4 Impale"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Gunner" size="Large">
+<property name="Icons" value="3 Maneuver"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Gunner" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Gunner" size="Large">
+<property name="Icons" value="3 Missile"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Gunner" size="Large">
+<property name="Icons" value="3 Fabricate"/>
+</alternate>
+</card>
+<card id="9e920a71-448c-4d29-9308-fa6da1394d4e" name="Gold Armored Dracolem" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Cavalry"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Gold Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Trample"/>
+</alternate>
+<alternate type="Alt2" name="Gold Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Rend"/>
+</alternate>
+<alternate type="Alt3" name="Gold Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Maneuver"/>
+</alternate>
+<alternate type="Alt4" name="Gold Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Gold Armored Dracolem" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="9fa39c2e-1724-495b-8734-91671f6a341f" name="Gold Draco-Champion" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Gold Draco-Champion" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Champion" size="Champion">
+<property name="Icons" value="4 Double Strike"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Champion" size="Champion">
+<property name="Icons" value="4 Melee"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Champion" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Champion" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="a76c9c12-5af2-46c6-aaf5-b374ae1ec90a" name="Gold Promo Champion" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Heavy Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Gold Promo Champion" size="Champion">
+<property name="Icons" value="4 Belly"/>
+</alternate>
+<alternate type="Alt2" name="Gold Promo Champion" size="Champion">
+<property name="Icons" value="4 Fly"/>
+</alternate>
+<alternate type="Alt3" name="Gold Promo Champion" size="Champion">
+<property name="Icons" value="4 Breath"/>
+</alternate>
+<alternate type="Alt4" name="Gold Promo Champion" size="Champion">
+<property name="Icons" value="4 Smite"/>
+</alternate>
+<alternate type="Alt5" name="Gold Promo Champion" size="Champion">
+<property name="Icons" value="4 Logo"/>
+</alternate>
+</card>
+<card id="a1c06904-453a-4783-91ba-0d8430b3db59" name="Gold Draco-Zealot" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Light Melee"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Gold Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Roar"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Stun"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Zealot" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="a4958d1f-2fb6-400b-a04c-afaa63ff6f0f" name="Gold Draco-Baal" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Magic"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Gold Draco-Baal" size="Champion">
+<property name="Icons" value="4 Spell Disruption"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Baal" size="Champion">
+<property name="Icons" value="4 Magic Suppression"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Baal" size="Champion">
+<property name="Icons" value="4 Magic"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Baal" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Baal" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+<card id="a756b045-7142-400b-b29d-ed36cb0bc301" name="Gold Draco-Mortus" size="Champion">
+<property name="Species" value="Dracolem"/>
+<property name="Element" value="Gold"/>
+<property name="Type" value="Unit"/>
+<property name="Size" value="Champion"/>
+<property name="Class" value="Missile"/>
+<property name="Icons" value="4 ID"/>
+<alternate type="Alt1" name="Gold Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Flaming Arrow"/>
+</alternate>
+<alternate type="Alt2" name="Gold Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Impale"/>
+</alternate>
+<alternate type="Alt3" name="Gold Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Missile"/>
+</alternate>
+<alternate type="Alt4" name="Gold Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Gate"/>
+</alternate>
+<alternate type="Alt5" name="Gold Draco-Mortus" size="Champion">
+<property name="Icons" value="4 Fabricate"/>
+</alternate>
+</card>
+</cards>
+</set>
