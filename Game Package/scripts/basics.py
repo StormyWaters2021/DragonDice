@@ -213,14 +213,15 @@ def build_army(loc):
                 die.moveToTable(x + (die_shift * offset), y)
             die_shift += die.width + 5
             die_count += 1
-            if me.isInverted: 
-                if die.position[0] < coords[loc][2] + 60:
-                    die_shift = 10
-                    y += 70 * offset
-            else:
-                if die.position[0] > coords[loc][2] - 50:                
-                    die_shift = 0
-                    y += 70 * offset
+            if die_count < len(sorted):
+                if me.isInverted:
+                    if die.position[0] < coords[loc][2] + sorted[die_count].width:
+                        die_shift = 10
+                        y += 70 * offset
+                else:
+                    if die.position[0] > coords[loc][2] - (sorted[die_count].width * 2):
+                        die_shift = 0
+                        y += 70 * offset
                     
 
 def results_splitter(die):
