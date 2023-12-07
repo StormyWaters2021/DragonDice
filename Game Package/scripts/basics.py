@@ -221,7 +221,12 @@ def build_army(loc):
                     die_shift = 0
                     y += 70 * offset
                     
-                    
+
+def results_splitter(die):
+    result = die.Icons.split(" ", 1)
+    return result
+  
+  
 def calculate_army(location, action, action_word):
 # Complex result calculation. Will total up relevant normal icons,
 # as well as icons that deal damage without allowing a save,
@@ -257,7 +262,7 @@ def calculate_army(location, action, action_word):
 
     # Then build a list of all the roll results left
     for die in army:
-        result = die.Icons.split(" ")
+        result = results_splitter(die)
         all_results.append(result)
 
     for item in all_results:
@@ -416,7 +421,7 @@ def roll_and_reroll(die, action, number):
     while keep_rolling:
         dice = []
         dice.append(die)
-        result = die.Icons.split(" ")
+        result = results_splitter(die)
         if result[1] in action["reroll"]:
             notify("{} rolled {}! Re-rolling...".format(die, die.Icons))
             number += int(result[0])
