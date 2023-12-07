@@ -7,13 +7,13 @@ TERRAIN_ELEMENTS = ("Blue (Air)", "Black (Death)", "Red (Fire)", "Green (Water)"
 P1_COORDS = {
     "Home Terrain": (-540, -35, -540, -35),
     "Frontier Terrain": (-125, -35, -125, -35),
-    "Home Army": (-735, 80, -315, 265),
-    "Campaign Army": (-245, 80, 210, 265),
-    "Horde Army": (270, 80, 695, 265),
-    "Summoning Pool": (-245, 345, 205, 525),
-    "Reserves": (270, 340, 695, 525),
-    "DUA": (-735, 335, -315, 400),
-    "BUA": (-735, 455, -315, 525)
+    "Home Army": (-735, 80, -270, 310),
+    "Campaign Army": (-245, 80, 250, 310),
+    "Horde Army": (270, 80, 735, 310),
+    "Summoning Pool": (-245, 345, 250, 570),
+    "Reserves": (270, 340, 735, 570),
+    "DUA": (-735, 335, -270, 440),
+    "BUA": (-735, 455, -270, 570)
 }
 
 P2_COORDS = {

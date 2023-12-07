@@ -109,6 +109,7 @@ def sort_army(dice):
     relics = [d for d in dice if d.Size == "Relic"]
     minor_terrain = [d for d in dice if d.Type == "Minor Terrain"]
     medallions = [d for d in dice if d.Size == "Medallion"]
+    # notify("Large: {}\nMedium: {}\n Small:{}".format(large_units, medium_units, small_units))
     sorted_army += dragons + monsters + champions + large_units + medium_units + small_units + artifacts + relics + medallions + large_items + medium_items + small_items + minor_terrain
     return sorted_army
     
@@ -216,7 +217,7 @@ def build_army(loc):
                 if die.position[0] < coords[loc][2] + 60:
                     die_shift = 10
                     y += 70 * offset
-            elif not me.isInverted:
+            else:
                 if die.position[0] > coords[loc][2] - 50:                
                     die_shift = 0
                     y += 70 * offset
